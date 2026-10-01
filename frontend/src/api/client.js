@@ -1,8 +1,10 @@
-// Tiny fetch wrapper. All future API calls should go through this.
+const API_BASE_URL = 'https://lead-to-deal-crm.onrender.com';
+
 export async function api(path, { method = 'GET', body, token } = {}) {
   let res;
+
   try {
-    res = await fetch(`/api${path}`, {
+    res = await fetch(`${API_BASE_URL}/api${path}`, {
       method,
       headers: {
         'Content-Type': 'application/json',
@@ -15,6 +17,7 @@ export async function api(path, { method = 'GET', body, token } = {}) {
   }
 
   const data = await res.json().catch(() => ({}));
+
   if (!res.ok) {
     const errorMsg =
       data.message ||
@@ -26,8 +29,9 @@ export async function api(path, { method = 'GET', body, token } = {}) {
         : res.status === 404
         ? 'Resource not found.'
         : `Request failed with status ${res.status}`);
+
     throw new Error(errorMsg);
   }
+
   return data;
 }
-
