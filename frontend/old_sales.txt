@@ -1,0 +1,34 @@
+Created At: 2026-10-01T10:25:00+05:30
+Completed At: 2026-10-01T10:25:00+05:30
+File Path: `file:///C:/Users/Siri%20reddy/Downloads/lead-to-deal-crm-module1/lead-to-deal-crm/frontend/src/routes/SalespersonRoutes.jsx`
+Total Lines: 26
+Total Bytes: 1170
+Showing lines 1 to 26
+The following code has been modified to include a line number before every line, in the format: <line_number>: <original_line>. Please note that any changes targeting the original code should remove the line number, colon, and leading space.
+1: import { Routes, Route, Navigate } from 'react-router-dom';
+2: import SalespersonDashboard from '../pages/salesperson/SalespersonDashboard.jsx';
+3: import LeadsList from '../pages/salesperson/LeadsList.jsx';
+4: import AddLead from '../pages/salesperson/AddLead.jsx';
+5: import LeadDetails from '../pages/salesperson/LeadDetails.jsx';
+6: import Pipeline from '../pages/salesperson/Pipeline.jsx';
+7: import Activities from '../pages/salesperson/Activities.jsx';
+8: import Analytics from '../pages/salesperson/Analytics.jsx';
+9: import Settings from '../pages/salesperson/Settings.jsx';
+10: 
+11: export default function SalespersonRoutes() {
+12:   return (
+13:     <Routes>
+14:       <Route index element={<SalespersonDashboard />} />
+15:       <Route path="leads" element={<LeadsList />} />
+16:       <Route path="leads/new" element={<AddLead />} />
+17:       <Route path="leads/:id" element={<LeadDetails />} />
+18:       <Route path="pipeline" element={<Pipeline />} />
+19:       <Route path="activities" element={<Activities />} />
+20:       <Route path="analytics" element={<Analytics />} />
+21:       <Route path="settings" element={<Settings />} />
+22:       <Route path="*" element={<Navigate to="/sales" replace />} />
+23:     </Routes>
+24:   );
+25: }
+26: 
+The above content shows the entire, complete file contents of the requested file.

@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "STG-1186",
+    "leadId": "LEAD-1001",
+    "oldStage": "Engaged",
+    "newStage": "Qualified",
+    "reason": "Lead score reached 51.",
+    "timestamp": "2026-10-01T07:28:14.098Z"
+  },
+  {
+    "id": "STG-1185",
+    "leadId": "LEAD-1005",
+    "oldStage": "Engaged",
+    "newStage": "Negotiation",
+    "reason": "Customer initiated direct purchase checkout for Asus ROG Zephyrus G16.",
+    "timestamp": "2026-10-01T07:06:18.963Z"
+  },
+  {
+    "id": "STG-1184",
+    "leadId": "LEAD-1005",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer visited dashboard and recommendations.",
+    "timestamp": "2026-10-01T07:06:13.795Z"
+  },
+  {
+    "id": "STG-1183",
+    "leadId": "LEAD-1005",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T07:06:13.727Z"
+  },
+  {
+    "id": "STG-1182",
+    "leadId": "LEAD-1004",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer visited dashboard and recommendations.",
+    "timestamp": "2026-10-01T07:05:49.139Z"
+  },
+  {
+    "id": "STG-1181",
+    "leadId": "LEAD-1004",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T07:05:49.080Z"
+  },
+  {
+    "id": "STG-1180",
+    "leadId": "LEAD-1003",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer visited dashboard and recommendations.",
+    "timestamp": "2026-10-01T07:01:51.421Z"
+  },
+  {
+    "id": "STG-1179",
+    "leadId": "LEAD-1003",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T07:01:51.390Z"
+  },
+  {
+    "id": "STG-1178",
+    "leadId": "LEAD-1002",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer visited dashboard and recommendations.",
+    "timestamp": "2026-10-01T07:00:25.408Z"
+  },
+  {
+    "id": "STG-1177",
+    "leadId": "LEAD-1002",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T07:00:25.261Z"
+  },
+  {
+    "id": "STG-1176",
+    "leadId": "LEAD-1001",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer visited dashboard and recommendations.",
+    "timestamp": "2026-10-01T06:18:29.283Z"
+  },
+  {
+    "id": "STG-1175",
+    "leadId": "LEAD-1070",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790827978760.",
+    "timestamp": "2026-10-01T04:12:58.763Z"
+  },
+  {
+    "id": "STG-1174",
+    "leadId": "LEAD-1070",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-10-01T04:12:58.699Z"
+  },
+  {
+    "id": "STG-1173",
+    "leadId": "LEAD-1070",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Logitech MX Master 3S Wireless Mouse.",
+    "timestamp": "2026-10-01T04:12:58.652Z"
+  },
+  {
+    "id": "STG-1172",
+    "leadId": "LEAD-1070",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Logitech MX Master 3S Wireless Mouse).",
+    "timestamp": "2026-10-01T04:12:58.301Z"
+  },
+  {
+    "id": "STG-1171",
+    "leadId": "LEAD-1070",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T04:12:57.677Z"
+  },
+  {
+    "id": "STG-1170",
+    "leadId": "LEAD-1069",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790827866389.",
+    "timestamp": "2026-10-01T04:11:06.392Z"
+  },
+  {
+    "id": "STG-1169",
+    "leadId": "LEAD-1069",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-10-01T04:11:06.344Z"
+  },
+  {
+    "id": "STG-1168",
+    "leadId": "LEAD-1069",
+    "oldStage": "Qualified",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-10-01T04:11:06.300Z"
+  },
+  {
+    "id": "STG-1167",
+    "leadId": "LEAD-1069",
+    "oldStage": "Engaged",
+    "newStage": "Qualified",
+    "reason": "Customer submitted contact inquiry form.",
+    "timestamp": "2026-10-01T04:11:06.245Z"
+  },
+  {
+    "id": "STG-1166",
+    "leadId": "LEAD-1069",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-10-01T04:11:06.099Z"
+  },
+  {
+    "id": "STG-1165",
+    "leadId": "LEAD-1069",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T04:11:05.955Z"
+  },
+  {
+    "id": "STG-1164",
+    "leadId": "LEAD-1068",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790827865364.",
+    "timestamp": "2026-10-01T04:11:05.366Z"
+  },
+  {
+    "id": "STG-1163",
+    "leadId": "LEAD-1068",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-10-01T04:11:05.322Z"
+  },
+  {
+    "id": "STG-1162",
+    "leadId": "LEAD-1068",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-10-01T04:11:05.276Z"
+  },
+  {
+    "id": "STG-1161",
+    "leadId": "LEAD-1068",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-10-01T04:11:05.202Z"
+  },
+  {
+    "id": "STG-1160",
+    "leadId": "LEAD-1068",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T04:11:05.174Z"
+  },
+  {
+    "id": "STG-1159",
+    "leadId": "LEAD-1067",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790827864019.",
+    "timestamp": "2026-10-01T04:11:04.022Z"
+  },
+  {
+    "id": "STG-1158",
+    "leadId": "LEAD-1067",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-10-01T04:11:03.943Z"
+  },
+  {
+    "id": "STG-1157",
+    "leadId": "LEAD-1067",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Apple MacBook Pro 16\" M4 Max.",
+    "timestamp": "2026-10-01T04:11:03.863Z"
+  },
+  {
+    "id": "STG-1156",
+    "leadId": "LEAD-1067",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (MacBook Pro M3 Max).",
+    "timestamp": "2026-10-01T04:11:03.787Z"
+  },
+  {
+    "id": "STG-1155",
+    "leadId": "LEAD-1067",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T04:11:03.731Z"
+  },
+  {
+    "id": "STG-1154",
+    "leadId": "LEAD-1066",
+    "oldStage": "New",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Enterprise CRM Suite.",
+    "timestamp": "2026-10-01T04:11:02.647Z"
+  },
+  {
+    "id": "STG-1153",
+    "leadId": "LEAD-1066",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T04:11:02.583Z"
+  },
+  {
+    "id": "STG-1152",
+    "leadId": "LEAD-1065",
+    "oldStage": "New",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Apple iPhone 16.",
+    "timestamp": "2026-10-01T04:11:01.426Z"
+  },
+  {
+    "id": "STG-1151",
+    "leadId": "LEAD-1065",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T04:11:01.399Z"
+  },
+  {
+    "id": "STG-1150",
+    "leadId": "LEAD-1017",
+    "oldStage": "New",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-10-01T03:53:03.608Z"
+  },
+  {
+    "id": "STG-1149",
+    "leadId": "LEAD-1064",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790826701187.",
+    "timestamp": "2026-10-01T03:51:41.190Z"
+  },
+  {
+    "id": "STG-1148",
+    "leadId": "LEAD-1064",
+    "oldStage": "Engaged",
+    "newStage": "Negotiation",
+    "reason": "Customer initiated direct purchase checkout.",
+    "timestamp": "2026-10-01T03:51:41.150Z"
+  },
+  {
+    "id": "STG-1147",
+    "leadId": "LEAD-1064",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer visited dashboard and recommendations.",
+    "timestamp": "2026-10-01T03:51:41.002Z"
+  },
+  {
+    "id": "STG-1146",
+    "leadId": "LEAD-1064",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T03:51:40.920Z"
+  },
+  {
+    "id": "STG-1145",
+    "leadId": "LEAD-1063",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-10-01T03:51:18.864Z"
+  },
+  {
+    "id": "STG-1144",
+    "leadId": "LEAD-1063",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-10-01T03:51:18.794Z"
+  },
+  {
+    "id": "STG-1143",
+    "leadId": "LEAD-1063",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T03:51:18.763Z"
+  },
+  {
+    "id": "STG-1142",
+    "leadId": "LEAD-1062",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790826655748.",
+    "timestamp": "2026-10-01T03:50:55.751Z"
+  },
+  {
+    "id": "STG-1141",
+    "leadId": "LEAD-1062",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-10-01T03:50:55.705Z"
+  },
+  {
+    "id": "STG-1140",
+    "leadId": "LEAD-1062",
+    "oldStage": "Qualified",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-10-01T03:50:55.658Z"
+  },
+  {
+    "id": "STG-1139",
+    "leadId": "LEAD-1062",
+    "oldStage": "Engaged",
+    "newStage": "Qualified",
+    "reason": "Customer submitted contact inquiry form.",
+    "timestamp": "2026-10-01T03:50:55.609Z"
+  },
+  {
+    "id": "STG-1138",
+    "leadId": "LEAD-1062",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-10-01T03:50:55.504Z"
+  },
+  {
+    "id": "STG-1137",
+    "leadId": "LEAD-1062",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T03:50:55.170Z"
+  },
+  {
+    "id": "STG-1136",
+    "leadId": "LEAD-1061",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790826631141.",
+    "timestamp": "2026-10-01T03:50:31.143Z"
+  },
+  {
+    "id": "STG-1135",
+    "leadId": "LEAD-1061",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-10-01T03:50:31.102Z"
+  },
+  {
+    "id": "STG-1134",
+    "leadId": "LEAD-1061",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-10-01T03:50:31.051Z"
+  },
+  {
+    "id": "STG-1133",
+    "leadId": "LEAD-1061",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-10-01T03:50:30.970Z"
+  },
+  {
+    "id": "STG-1132",
+    "leadId": "LEAD-1061",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T03:50:30.943Z"
+  },
+  {
+    "id": "STG-1131",
+    "leadId": "LEAD-1060",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790826592477.",
+    "timestamp": "2026-10-01T03:49:52.539Z"
+  },
+  {
+    "id": "STG-1130",
+    "leadId": "LEAD-1060",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-10-01T03:49:52.414Z"
+  },
+  {
+    "id": "STG-1129",
+    "leadId": "LEAD-1060",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Apple MacBook Pro 16\" M4 Max.",
+    "timestamp": "2026-10-01T03:49:52.348Z"
+  },
+  {
+    "id": "STG-1128",
+    "leadId": "LEAD-1060",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (MacBook Pro M3 Max).",
+    "timestamp": "2026-10-01T03:49:52.207Z"
+  },
+  {
+    "id": "STG-1127",
+    "leadId": "LEAD-1060",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T03:49:52.169Z"
+  },
+  {
+    "id": "STG-1126",
+    "leadId": "LEAD-1059",
+    "oldStage": "New",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Enterprise CRM Suite.",
+    "timestamp": "2026-10-01T03:49:29.442Z"
+  },
+  {
+    "id": "STG-1125",
+    "leadId": "LEAD-1059",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T03:49:29.418Z"
+  },
+  {
+    "id": "STG-1124",
+    "leadId": "LEAD-1058",
+    "oldStage": "New",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Apple iPhone 16.",
+    "timestamp": "2026-10-01T03:48:56.448Z"
+  },
+  {
+    "id": "STG-1123",
+    "leadId": "LEAD-1058",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T03:48:56.378Z"
+  },
+  {
+    "id": "STG-1122",
+    "leadId": "LEAD-1057",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790825792201.",
+    "timestamp": "2026-10-01T03:36:32.238Z"
+  },
+  {
+    "id": "STG-1121",
+    "leadId": "LEAD-1057",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-10-01T03:36:32.170Z"
+  },
+  {
+    "id": "STG-1120",
+    "leadId": "LEAD-1057",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Logitech MX Master 3S Wireless Mouse.",
+    "timestamp": "2026-10-01T03:36:32.139Z"
+  },
+  {
+    "id": "STG-1119",
+    "leadId": "LEAD-1057",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Logitech MX Master 3S Wireless Mouse).",
+    "timestamp": "2026-10-01T03:36:31.951Z"
+  },
+  {
+    "id": "STG-1118",
+    "leadId": "LEAD-1057",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T03:36:31.020Z"
+  },
+  {
+    "id": "STG-1117",
+    "leadId": "LEAD-1056",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Logitech MX Master 3S Wireless Mouse).",
+    "timestamp": "2026-10-01T03:35:39.779Z"
+  },
+  {
+    "id": "STG-1116",
+    "leadId": "LEAD-1056",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T03:35:38.837Z"
+  },
+  {
+    "id": "STG-1115",
+    "leadId": "LEAD-1055",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Logitech MX Master 3S Wireless Mouse).",
+    "timestamp": "2026-10-01T03:31:35.847Z"
+  },
+  {
+    "id": "STG-1114",
+    "leadId": "LEAD-1055",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T03:31:35.341Z"
+  },
+  {
+    "id": "STG-1113",
+    "leadId": "LEAD-1054",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T03:30:42.349Z"
+  },
+  {
+    "id": "STG-1112",
+    "leadId": "LEAD-1053",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-10-01T03:29:13.728Z"
+  },
+  {
+    "id": "STG-1111",
+    "leadId": "LEAD-1052",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790792777787.",
+    "timestamp": "2026-09-30T18:26:17.789Z"
+  },
+  {
+    "id": "STG-1110",
+    "leadId": "LEAD-1052",
+    "oldStage": "Engaged",
+    "newStage": "Negotiation",
+    "reason": "Customer initiated direct purchase checkout.",
+    "timestamp": "2026-09-30T18:26:17.764Z"
+  },
+  {
+    "id": "STG-1109",
+    "leadId": "LEAD-1052",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer visited dashboard and recommendations.",
+    "timestamp": "2026-09-30T18:26:17.707Z"
+  },
+  {
+    "id": "STG-1108",
+    "leadId": "LEAD-1052",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:26:17.682Z"
+  },
+  {
+    "id": "STG-1107",
+    "leadId": "LEAD-1051",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T18:25:59.480Z"
+  },
+  {
+    "id": "STG-1106",
+    "leadId": "LEAD-1051",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T18:25:59.442Z"
+  },
+  {
+    "id": "STG-1105",
+    "leadId": "LEAD-1051",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:25:59.424Z"
+  },
+  {
+    "id": "STG-1104",
+    "leadId": "LEAD-1050",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790792737375.",
+    "timestamp": "2026-09-30T18:25:37.377Z"
+  },
+  {
+    "id": "STG-1103",
+    "leadId": "LEAD-1050",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T18:25:37.333Z"
+  },
+  {
+    "id": "STG-1102",
+    "leadId": "LEAD-1050",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T18:25:37.290Z"
+  },
+  {
+    "id": "STG-1101",
+    "leadId": "LEAD-1050",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T18:25:37.205Z"
+  },
+  {
+    "id": "STG-1100",
+    "leadId": "LEAD-1050",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:25:37.181Z"
+  },
+  {
+    "id": "STG-1099",
+    "leadId": "LEAD-1049",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790792717688.",
+    "timestamp": "2026-09-30T18:25:17.743Z"
+  },
+  {
+    "id": "STG-1098",
+    "leadId": "LEAD-1049",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T18:25:17.650Z"
+  },
+  {
+    "id": "STG-1097",
+    "leadId": "LEAD-1049",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Apple MacBook Pro 16\" M4 Max.",
+    "timestamp": "2026-09-30T18:25:17.610Z"
+  },
+  {
+    "id": "STG-1096",
+    "leadId": "LEAD-1049",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (MacBook Pro M3 Max).",
+    "timestamp": "2026-09-30T18:25:17.568Z"
+  },
+  {
+    "id": "STG-1095",
+    "leadId": "LEAD-1049",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:25:17.541Z"
+  },
+  {
+    "id": "STG-1094",
+    "leadId": "LEAD-1048",
+    "oldStage": "New",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Enterprise CRM Suite.",
+    "timestamp": "2026-09-30T18:24:57.052Z"
+  },
+  {
+    "id": "STG-1093",
+    "leadId": "LEAD-1048",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:24:57.036Z"
+  },
+  {
+    "id": "STG-1092",
+    "leadId": "LEAD-1047",
+    "oldStage": "New",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Apple iPhone 16.",
+    "timestamp": "2026-09-30T18:24:38.586Z"
+  },
+  {
+    "id": "STG-1091",
+    "leadId": "LEAD-1047",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:24:38.571Z"
+  },
+  {
+    "id": "STG-1090",
+    "leadId": "LEAD-1046",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790792066584.",
+    "timestamp": "2026-09-30T18:14:26.585Z"
+  },
+  {
+    "id": "STG-1089",
+    "leadId": "LEAD-1046",
+    "oldStage": "Engaged",
+    "newStage": "Negotiation",
+    "reason": "Customer initiated direct purchase checkout.",
+    "timestamp": "2026-09-30T18:14:26.564Z"
+  },
+  {
+    "id": "STG-1088",
+    "leadId": "LEAD-1046",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer visited dashboard and recommendations.",
+    "timestamp": "2026-09-30T18:14:26.521Z"
+  },
+  {
+    "id": "STG-1087",
+    "leadId": "LEAD-1046",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:14:26.503Z"
+  },
+  {
+    "id": "STG-1086",
+    "leadId": "LEAD-1045",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790791968401.",
+    "timestamp": "2026-09-30T18:12:48.402Z"
+  },
+  {
+    "id": "STG-1085",
+    "leadId": "LEAD-1045",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T18:12:48.378Z"
+  },
+  {
+    "id": "STG-1084",
+    "leadId": "LEAD-1045",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T18:12:48.355Z"
+  },
+  {
+    "id": "STG-1083",
+    "leadId": "LEAD-1045",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T18:12:48.312Z"
+  },
+  {
+    "id": "STG-1082",
+    "leadId": "LEAD-1045",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:12:48.296Z"
+  },
+  {
+    "id": "STG-1081",
+    "leadId": "LEAD-1044",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T18:12:30.738Z"
+  },
+  {
+    "id": "STG-1080",
+    "leadId": "LEAD-1044",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T18:12:30.686Z"
+  },
+  {
+    "id": "STG-1079",
+    "leadId": "LEAD-1044",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:12:30.658Z"
+  },
+  {
+    "id": "STG-1078",
+    "leadId": "LEAD-1043",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790791932084.",
+    "timestamp": "2026-09-30T18:12:12.133Z"
+  },
+  {
+    "id": "STG-1077",
+    "leadId": "LEAD-1043",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T18:12:12.048Z"
+  },
+  {
+    "id": "STG-1076",
+    "leadId": "LEAD-1043",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Apple MacBook Pro 16\" M4 Max.",
+    "timestamp": "2026-09-30T18:12:12.009Z"
+  },
+  {
+    "id": "STG-1075",
+    "leadId": "LEAD-1043",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (MacBook Pro M3 Max).",
+    "timestamp": "2026-09-30T18:12:11.965Z"
+  },
+  {
+    "id": "STG-1074",
+    "leadId": "LEAD-1043",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:12:11.932Z"
+  },
+  {
+    "id": "STG-1073",
+    "leadId": "LEAD-1042",
+    "oldStage": "New",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Enterprise CRM Suite.",
+    "timestamp": "2026-09-30T18:11:55.126Z"
+  },
+  {
+    "id": "STG-1072",
+    "leadId": "LEAD-1042",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:11:55.106Z"
+  },
+  {
+    "id": "STG-1071",
+    "leadId": "LEAD-1041",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790791342356.",
+    "timestamp": "2026-09-30T18:02:22.358Z"
+  },
+  {
+    "id": "STG-1070",
+    "leadId": "LEAD-1041",
+    "oldStage": "Engaged",
+    "newStage": "Negotiation",
+    "reason": "Customer initiated direct purchase checkout.",
+    "timestamp": "2026-09-30T18:02:22.341Z"
+  },
+  {
+    "id": "STG-1069",
+    "leadId": "LEAD-1041",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer visited dashboard and recommendations.",
+    "timestamp": "2026-09-30T18:02:22.304Z"
+  },
+  {
+    "id": "STG-1068",
+    "leadId": "LEAD-1041",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:02:22.286Z"
+  },
+  {
+    "id": "STG-1067",
+    "leadId": "LEAD-1040",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T18:01:47.845Z"
+  },
+  {
+    "id": "STG-1066",
+    "leadId": "LEAD-1040",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T18:01:47.819Z"
+  },
+  {
+    "id": "STG-1065",
+    "leadId": "LEAD-1040",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:01:47.805Z"
+  },
+  {
+    "id": "STG-1064",
+    "leadId": "LEAD-1039",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790791277930.",
+    "timestamp": "2026-09-30T18:01:17.932Z"
+  },
+  {
+    "id": "STG-1063",
+    "leadId": "LEAD-1039",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T18:01:17.911Z"
+  },
+  {
+    "id": "STG-1062",
+    "leadId": "LEAD-1039",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T18:01:17.892Z"
+  },
+  {
+    "id": "STG-1061",
+    "leadId": "LEAD-1039",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T18:01:17.852Z"
+  },
+  {
+    "id": "STG-1060",
+    "leadId": "LEAD-1039",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:01:17.837Z"
+  },
+  {
+    "id": "STG-1059",
+    "leadId": "LEAD-1038",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790791245822.",
+    "timestamp": "2026-09-30T18:00:45.823Z"
+  },
+  {
+    "id": "STG-1058",
+    "leadId": "LEAD-1038",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T18:00:45.800Z"
+  },
+  {
+    "id": "STG-1057",
+    "leadId": "LEAD-1038",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Apple MacBook Pro 16\" M4 Max.",
+    "timestamp": "2026-09-30T18:00:45.780Z"
+  },
+  {
+    "id": "STG-1056",
+    "leadId": "LEAD-1038",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (MacBook Pro M3 Max).",
+    "timestamp": "2026-09-30T18:00:45.761Z"
+  },
+  {
+    "id": "STG-1055",
+    "leadId": "LEAD-1038",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T18:00:45.746Z"
+  },
+  {
+    "id": "STG-1054",
+    "leadId": "LEAD-1037",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790790878037.",
+    "timestamp": "2026-09-30T17:54:38.064Z"
+  },
+  {
+    "id": "STG-1053",
+    "leadId": "LEAD-1037",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T17:54:37.962Z"
+  },
+  {
+    "id": "STG-1052",
+    "leadId": "LEAD-1037",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Apple MacBook Pro 16\" M4 Max.",
+    "timestamp": "2026-09-30T17:54:37.944Z"
+  },
+  {
+    "id": "STG-1051",
+    "leadId": "LEAD-1037",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (MacBook Pro M3 Max).",
+    "timestamp": "2026-09-30T17:54:37.924Z"
+  },
+  {
+    "id": "STG-1050",
+    "leadId": "LEAD-1037",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T17:54:37.904Z"
+  },
+  {
+    "id": "STG-1049",
+    "leadId": "LEAD-1036",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790790481745.",
+    "timestamp": "2026-09-30T17:48:01.746Z"
+  },
+  {
+    "id": "STG-1048",
+    "leadId": "LEAD-1036",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T17:48:01.730Z"
+  },
+  {
+    "id": "STG-1047",
+    "leadId": "LEAD-1036",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T17:48:01.715Z"
+  },
+  {
+    "id": "STG-1046",
+    "leadId": "LEAD-1036",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T17:48:01.685Z"
+  },
+  {
+    "id": "STG-1045",
+    "leadId": "LEAD-1036",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T17:48:01.672Z"
+  },
+  {
+    "id": "STG-1044",
+    "leadId": "LEAD-1035",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790790456917.",
+    "timestamp": "2026-09-30T17:47:36.939Z"
+  },
+  {
+    "id": "STG-1043",
+    "leadId": "LEAD-1035",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T17:47:36.895Z"
+  },
+  {
+    "id": "STG-1042",
+    "leadId": "LEAD-1035",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Apple MacBook Pro 16\" M4 Max.",
+    "timestamp": "2026-09-30T17:47:36.878Z"
+  },
+  {
+    "id": "STG-1041",
+    "leadId": "LEAD-1035",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (MacBook Pro M3 Max).",
+    "timestamp": "2026-09-30T17:47:36.857Z"
+  },
+  {
+    "id": "STG-1040",
+    "leadId": "LEAD-1035",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T17:47:36.840Z"
+  },
+  {
+    "id": "STG-1039",
+    "leadId": "LEAD-1034",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790789623454.",
+    "timestamp": "2026-09-30T17:33:43.456Z"
+  },
+  {
+    "id": "STG-1038",
+    "leadId": "LEAD-1034",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T17:33:43.415Z"
+  },
+  {
+    "id": "STG-1037",
+    "leadId": "LEAD-1034",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T17:33:43.365Z"
+  },
+  {
+    "id": "STG-1036",
+    "leadId": "LEAD-1034",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T17:33:43.287Z"
+  },
+  {
+    "id": "STG-1035",
+    "leadId": "LEAD-1034",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T17:33:43.256Z"
+  },
+  {
+    "id": "STG-1034",
+    "leadId": "LEAD-1033",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790789291820.",
+    "timestamp": "2026-09-30T17:28:11.823Z"
+  },
+  {
+    "id": "STG-1033",
+    "leadId": "LEAD-1033",
+    "oldStage": "Engaged",
+    "newStage": "Negotiation",
+    "reason": "Customer initiated direct purchase checkout.",
+    "timestamp": "2026-09-30T17:28:11.798Z"
+  },
+  {
+    "id": "STG-1032",
+    "leadId": "LEAD-1033",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer visited dashboard and recommendations.",
+    "timestamp": "2026-09-30T17:28:11.732Z"
+  },
+  {
+    "id": "STG-1031",
+    "leadId": "LEAD-1033",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T17:28:11.703Z"
+  },
+  {
+    "id": "STG-1030",
+    "leadId": "LEAD-1032",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T17:27:47.326Z"
+  },
+  {
+    "id": "STG-1029",
+    "leadId": "LEAD-1032",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T17:27:47.242Z"
+  },
+  {
+    "id": "STG-1028",
+    "leadId": "LEAD-1032",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T17:27:47.181Z"
+  },
+  {
+    "id": "STG-1027",
+    "leadId": "LEAD-1031",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790789238740.",
+    "timestamp": "2026-09-30T17:27:18.742Z"
+  },
+  {
+    "id": "STG-1026",
+    "leadId": "LEAD-1031",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T17:27:18.717Z"
+  },
+  {
+    "id": "STG-1025",
+    "leadId": "LEAD-1031",
+    "oldStage": "Qualified",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T17:27:18.686Z"
+  },
+  {
+    "id": "STG-1024",
+    "leadId": "LEAD-1031",
+    "oldStage": "Engaged",
+    "newStage": "Qualified",
+    "reason": "Customer submitted contact inquiry form.",
+    "timestamp": "2026-09-30T17:27:18.648Z"
+  },
+  {
+    "id": "STG-1023",
+    "leadId": "LEAD-1031",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T17:27:18.574Z"
+  },
+  {
+    "id": "STG-1022",
+    "leadId": "LEAD-1031",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T17:27:18.317Z"
+  },
+  {
+    "id": "STG-1021",
+    "leadId": "LEAD-1030",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790789204621.",
+    "timestamp": "2026-09-30T17:26:44.663Z"
+  },
+  {
+    "id": "STG-1020",
+    "leadId": "LEAD-1030",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T17:26:44.593Z"
+  },
+  {
+    "id": "STG-1019",
+    "leadId": "LEAD-1030",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T17:26:44.557Z"
+  },
+  {
+    "id": "STG-1018",
+    "leadId": "LEAD-1030",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T17:26:44.479Z"
+  },
+  {
+    "id": "STG-1017",
+    "leadId": "LEAD-1030",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T17:26:44.449Z"
+  },
+  {
+    "id": "STG-1016",
+    "leadId": "LEAD-1029",
+    "oldStage": "Engaged",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T17:25:46.046Z"
+  },
+  {
+    "id": "STG-1015",
+    "leadId": "LEAD-1029",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Apex CRM Enterprise).",
+    "timestamp": "2026-09-30T17:25:45.982Z"
+  },
+  {
+    "id": "STG-1014",
+    "leadId": "LEAD-1029",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T17:25:45.958Z"
+  },
+  {
+    "id": "STG-1013",
+    "leadId": "LEAD-1028",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790788448327.",
+    "timestamp": "2026-09-30T17:14:08.329Z"
+  },
+  {
+    "id": "STG-1012",
+    "leadId": "LEAD-1028",
+    "oldStage": "Engaged",
+    "newStage": "Negotiation",
+    "reason": "Customer initiated direct purchase checkout.",
+    "timestamp": "2026-09-30T17:14:08.313Z"
+  },
+  {
+    "id": "STG-1011",
+    "leadId": "LEAD-1028",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer visited dashboard and recommendations.",
+    "timestamp": "2026-09-30T17:14:08.245Z"
+  },
+  {
+    "id": "STG-1010",
+    "leadId": "LEAD-1028",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T17:14:08.208Z"
+  },
+  {
+    "id": "STG-1009",
+    "leadId": "LEAD-1027",
+    "oldStage": "Engaged",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T17:13:39.684Z"
+  },
+  {
+    "id": "STG-1008",
+    "leadId": "LEAD-1027",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T17:13:39.660Z"
+  },
+  {
+    "id": "STG-1007",
+    "leadId": "LEAD-1027",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T17:13:39.640Z"
+  },
+  {
+    "id": "STG-1006",
+    "leadId": "LEAD-1026",
+    "oldStage": "Negotiation",
+    "newStage": "Won",
+    "reason": "Customer completed purchase for Order #ORD-1790788388550.",
+    "timestamp": "2026-09-30T17:13:08.590Z"
+  },
+  {
+    "id": "STG-1005",
+    "leadId": "LEAD-1026",
+    "oldStage": "Demo",
+    "newStage": "Negotiation",
+    "reason": "Customer started checkout process.",
+    "timestamp": "2026-09-30T17:13:08.524Z"
+  },
+  {
+    "id": "STG-1004",
+    "leadId": "LEAD-1026",
+    "oldStage": "Qualified",
+    "newStage": "Demo",
+    "reason": "Customer requested demo for Samsung Galaxy S25 Ultra.",
+    "timestamp": "2026-09-30T17:13:08.486Z"
+  },
+  {
+    "id": "STG-1003",
+    "leadId": "LEAD-1026",
+    "oldStage": "Engaged",
+    "newStage": "Qualified",
+    "reason": "Customer submitted contact inquiry form.",
+    "timestamp": "2026-09-30T17:13:08.444Z"
+  },
+  {
+    "id": "STG-1002",
+    "leadId": "LEAD-1026",
+    "oldStage": "New",
+    "newStage": "Engaged",
+    "reason": "Customer viewed product (Samsung Galaxy S25 Ultra).",
+    "timestamp": "2026-09-30T17:13:08.371Z"
+  },
+  {
+    "id": "STG-1001",
+    "leadId": "LEAD-1026",
+    "oldStage": null,
+    "newStage": "New",
+    "reason": "Initial stage assigned upon customer registration",
+    "timestamp": "2026-09-30T17:13:08.077Z"
+  }
+]

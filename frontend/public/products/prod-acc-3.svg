@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="g_prod-acc-3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="16" fill="url(#g_prod-acc-3)"/>
+  
+      <rect x="75" y="70" width="90" height="100" rx="18" fill="#1f2937" stroke="#f59e0b" stroke-width="2.5"/>
+      <path d="M100 45 L100 70 M140 45 L140 70" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+      <circle cx="120" cy="115" r="14" fill="#f59e0b" opacity="0.2"/>
+      <path d="M114 115 L126 115 M120 109 L120 121" stroke="#f59e0b" stroke-width="2.5" stroke-linecap="round"/>
+      <text x="120" y="152" fill="#f59e0b" font-size="10" font-family="sans-serif" font-weight="bold" text-anchor="middle">FAST CHARGE</text>
+    
+  <text x="120" y="222" fill="#94a3b8" font-size="9" font-family="sans-serif" font-weight="600" text-anchor="middle" letter-spacing="1">APPLE</text>
+</svg>

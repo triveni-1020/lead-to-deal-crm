@@ -1,0 +1,977 @@
+[
+  {
+    "id": "prod-phone-1",
+    "name": "Samsung Galaxy S25 Ultra",
+    "brand": "Samsung",
+    "category": "Smartphones",
+    "price": 109999,
+    "description": "The pinnacle of smartphone innovation featuring an integrated S-Pen, titanium armor chassis, 200MP pro-grade camera sensor, and revolutionary on-device neural processing.",
+    "image": "/products/prod-phone-1.svg",
+    "rating": 4.8,
+    "reviewCount": 342,
+    "available": true,
+    "stock": 45,
+    "features": [
+      "200MP Quad Telephoto Camera System",
+      "Dynamic AMOLED 2X 120Hz Display",
+      "Built-in Precision S-Pen",
+      "All-Day 5000mAh Intelligent Battery",
+      "Titanium Frame with IP68 Water Resistance"
+    ],
+    "specifications": {
+      "RAM": "12GB",
+      "Storage": "256GB",
+      "Display": "6.8 inch Dynamic AMOLED 2X",
+      "Camera": "200MP + 50MP + 12MP + 10MP",
+      "Battery": "5000mAh (45W Fast Charging)",
+      "Processor": "Snapdragon 8 Elite",
+      "Network": "5G Dual SIM",
+      "OS": "Android 15 (One UI 7)",
+      "5G": "Yes (Dual 5G)",
+      "Screen Size": "6.8 inch Dynamic AMOLED 2X"
+    },
+    "tags": [
+      "Flagship",
+      "5G",
+      "Titanium",
+      "Camera",
+      "S-Pen",
+      "Enterprise"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Samsung%20Galaxy%20S25%20Ultra",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-phone-2",
+    "name": "Apple iPhone 16",
+    "brand": "Apple",
+    "category": "Smartphones",
+    "price": 144900,
+    "description": "Engineered with Grade 5 Titanium, the cutting-edge A18 Pro chip, Camera Control button, and our longest iPhone battery life ever.",
+    "image": "/products/prod-phone-2.svg",
+    "rating": 4.9,
+    "reviewCount": 512,
+    "available": true,
+    "stock": 38,
+    "features": [
+      "A18 Pro chip with 6-core GPU",
+      "Camera Control for instant capture & visual intelligence",
+      "48MP Fusion Camera with 5x Telephoto",
+      "Titanium design with textured matte glass back",
+      "Action Button & USB-C 3.0 Transfer Speeds"
+    ],
+    "specifications": {
+      "RAM": "8GB",
+      "Storage": "256GB",
+      "Display": "6.9 inch Super Retina XDR OLED",
+      "Camera": "48MP Fusion + 48MP Ultra Wide + 12MP 5x Telephoto",
+      "Battery": "4685mAh (MagSafe Fast Charge)",
+      "Processor": "A18 Pro (3nm)",
+      "Network": "5G Dual eSIM",
+      "OS": "iOS 18",
+      "5G": "Yes (Dual 5G)",
+      "Screen Size": "6.9 inch Super Retina XDR OLED"
+    },
+    "tags": [
+      "Apple",
+      "iOS",
+      "5G",
+      "Titanium",
+      "Pro",
+      "Creative"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Apple%20iPhone%2016",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-phone-3",
+    "name": "Google Pixel 9",
+    "brand": "Google",
+    "category": "Smartphones",
+    "price": 106999,
+    "description": "Google's most powerful AI smartphone, featuring advanced Gemini intelligence, pro triple camera system, and 7 years of OS updates.",
+    "image": "/products/prod-phone-3.svg",
+    "rating": 4.7,
+    "reviewCount": 218,
+    "available": true,
+    "stock": 25,
+    "features": [
+      "Google Tensor G4 with 16GB RAM for on-device AI",
+      "Super Actua LTPO Display up to 3000 nits",
+      "Pro triple rear camera with 30x Super Res Zoom",
+      "Titan M2 security coprocessor",
+      "7 Years of OS and Security Drops"
+    ],
+    "specifications": {
+      "RAM": "16GB",
+      "Storage": "256GB",
+      "Display": "6.3 inch Super Actua OLED (1-120Hz)",
+      "Camera": "50MP Wide + 48MP Ultra Wide + 48MP 5x Telephoto",
+      "Battery": "4700mAh",
+      "Processor": "Google Tensor G4",
+      "Network": "5G Sub-6",
+      "OS": "Android 15 (Pixel UI)",
+      "5G": "Yes (Dual 5G)",
+      "Screen Size": "6.3 inch Super Actua OLED (1-120Hz)"
+    },
+    "tags": [
+      "Google",
+      "AI",
+      "Pixel",
+      "5G",
+      "Camera",
+      "Pure Android"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Google%20Pixel%209",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-phone-4",
+    "name": "OnePlus 13",
+    "brand": "OnePlus",
+    "category": "Smartphones",
+    "price": 69999,
+    "description": "Extreme performance meets Hasselblad mobile optics, massive 6000mAh Glacier battery, and ultra-smooth 2K Oriental display.",
+    "image": "/products/prod-phone-4.svg",
+    "rating": 4.6,
+    "reviewCount": 184,
+    "available": true,
+    "stock": 50,
+    "features": [
+      "Snapdragon 8 Elite flagship mobile processor",
+      "6000mAh Silicon-Carbon Glacier Battery with 100W SUPERVOOC",
+      "Hasselblad Master Camera System",
+      "2K DisplayMate A++ Certified Screen",
+      "IP68/IP69 Dust and Water Resistance"
+    ],
+    "specifications": {
+      "RAM": "16GB",
+      "Storage": "512GB",
+      "Display": "6.82 inch 2K ProXDR 120Hz",
+      "Camera": "50MP Sony LYT-808 + 50MP Periscope + 50MP Ultra-Wide",
+      "Battery": "6000mAh (100W Wired + 50W AIRVOOC)",
+      "Processor": "Snapdragon 8 Elite",
+      "Network": "5G Dual SIM",
+      "OS": "OxygenOS 15 (Android 15)",
+      "5G": "Yes (Dual 5G)",
+      "Screen Size": "6.82 inch 2K ProXDR 120Hz"
+    },
+    "tags": [
+      "Fast Charge",
+      "Hasselblad",
+      "5G",
+      "Gaming",
+      "Value Flagship"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=OnePlus%2013",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-phone-5",
+    "name": "Xiaomi 15 Pro",
+    "brand": "Xiaomi",
+    "category": "Smartphones",
+    "price": 89999,
+    "description": "Co-engineered with Leica featuring 1-inch sensor optics, quad 50MP Leica cameras, and ultra-durable Dragon Crystal Glass.",
+    "image": "/products/prod-phone-5.svg",
+    "rating": 4.5,
+    "reviewCount": 128,
+    "available": true,
+    "stock": 18,
+    "features": [
+      "Leica Vario-Summicron Optical Lens System",
+      "1-inch Sony LYT-900 Main Camera Sensor",
+      "Snapdragon 8 Elite Mobile Platform",
+      "WQHD+ Ultra-Clear AMOLED Display",
+      "Xiaomi HyperOS 2"
+    ],
+    "specifications": {
+      "RAM": "16GB",
+      "Storage": "512GB",
+      "Display": "6.73 inch 120Hz AMOLED (3200 x 1440)",
+      "Camera": "50MP (1-inch) + 200MP Periscope + 50MP Telephoto + 50MP Ultra-Wide",
+      "Battery": "5400mAh (90W HyperCharge)",
+      "Processor": "Snapdragon 8 Elite",
+      "Network": "5G Dual SIM",
+      "OS": "HyperOS 2",
+      "5G": "Yes (Dual 5G)",
+      "Screen Size": "6.73 inch 120Hz AMOLED (3200 x 1440)"
+    },
+    "tags": [
+      "Leica",
+      "Camera",
+      "5G",
+      "Ultra",
+      "Flagship"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Xiaomi%2015%20Pro",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-laptop-1",
+    "name": "Apple MacBook Pro 16\" M4 Max",
+    "brand": "Apple",
+    "category": "Laptops",
+    "price": 349900,
+    "description": "The ultimate workstation laptop with M4 Max, up to 24 hours of battery life, Liquid Retina XDR display with nano-texture option, and unmatched performance.",
+    "image": "/products/prod-laptop-1.svg",
+    "rating": 4.9,
+    "reviewCount": 196,
+    "available": true,
+    "stock": 14,
+    "features": [
+      "14-core CPU and 40-core GPU M4 Max architecture",
+      "Liquid Retina XDR display with 1600 nits peak brightness",
+      "36GB Unified Memory with 410GB/s bandwidth",
+      "Three Thunderbolt 5 ports, HDMI port, SDXC card slot",
+      "Six-speaker sound system with force-cancelling woofers"
+    ],
+    "specifications": {
+      "RAM": "36GB Unified Memory",
+      "Storage": "1TB NVMe SSD",
+      "Processor": "Apple M4 Max (14-core CPU, 40-core GPU)",
+      "Display": "16.2 inch Liquid Retina XDR (3456 x 2234, 120Hz ProMotion)",
+      "Graphics": "Integrated 40-core GPU with Hardware Ray Tracing",
+      "Battery": "100Wh (Up to 24 Hours)",
+      "Weight": "2.14 kg",
+      "OS": "macOS Sequoia",
+      "Screen Size": "16.2 inch Liquid Retina XDR (3456 x 2234, 120Hz ProMotion)"
+    },
+    "tags": [
+      "MacBook",
+      "Pro",
+      "Creative",
+      "Developer",
+      "M4 Max",
+      "Workstation"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Apple%20MacBook%20Pro%2016%22%20M4%20Max",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-laptop-2",
+    "name": "Dell XPS 16",
+    "brand": "Dell",
+    "category": "Laptops",
+    "price": 229990,
+    "description": "Futuristic CNC aluminum design, seamless glass touch haptic trackpad, stunning 4K+ OLED touch display, and discrete NVIDIA RTX 4070 graphics.",
+    "image": "/products/prod-laptop-2.svg",
+    "rating": 4.6,
+    "reviewCount": 112,
+    "available": true,
+    "stock": 20,
+    "features": [
+      "Intel Core Ultra 9 with dedicated Intel AI Boost NPU",
+      "NVIDIA GeForce RTX 4070 Laptop GPU 8GB GDDR6",
+      "16.3-inch 4K+ (3840 x 2400) OLED InfinityEdge Touch",
+      "CNC machined aluminum and Gorilla Glass 3 construction",
+      "Quad-speaker design with Waves MaxxAudio"
+    ],
+    "specifications": {
+      "RAM": "32GB LPDDR5X",
+      "Storage": "1TB PCIe Gen4 SSD",
+      "Processor": "Intel Core Ultra 9 185H (16 cores, 5.1GHz)",
+      "Display": "16.3 inch 4K+ OLED Touch (400 nits, 100% DCI-P3)",
+      "Graphics": "NVIDIA GeForce RTX 4070 8GB",
+      "Battery": "99.5Wh (130W USB-C Charging)",
+      "Weight": "2.13 kg",
+      "OS": "Windows 11 Pro",
+      "Screen Size": "16.3 inch 4K+ OLED Touch (400 nits, 100% DCI-P3)"
+    },
+    "tags": [
+      "Dell",
+      "XPS",
+      "OLED",
+      "RTX 4070",
+      "Enterprise",
+      "Design"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Dell%20XPS%2016",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-laptop-3",
+    "name": "Lenovo ThinkPad X1 Carbon Gen 12",
+    "brand": "Lenovo",
+    "category": "Laptops",
+    "price": 184990,
+    "description": "The gold standard for enterprise mobility. Feather-light carbon fiber chassis, legendary spill-resistant keyboard, 2.8K OLED display, and military-grade durability.",
+    "image": "/products/prod-laptop-3.svg",
+    "rating": 4.8,
+    "reviewCount": 240,
+    "available": true,
+    "stock": 35,
+    "features": [
+      "Ultralight carbon fiber and recycled magnesium body (1.09 kg)",
+      "Intel Core Ultra 7 vPro Processor with integrated NPU",
+      "14-inch 2.8K 120Hz OLED Anti-Glare Display",
+      "dTPM 2.0 Security Chip and Match-on-Chip Fingerprint Reader",
+      "Full array of USB-C Thunderbolt 4 and HDMI ports"
+    ],
+    "specifications": {
+      "RAM": "32GB LPDDR5X",
+      "Storage": "1TB PCIe Gen4 Performance SSD",
+      "Processor": "Intel Core Ultra 7 155H vPro",
+      "Display": "14.0 inch 2.8K OLED (2880 x 1800, 120Hz, 100% DCI-P3)",
+      "Graphics": "Intel Arc Graphics",
+      "Battery": "57Wh (Rapid Charge to 80% in 60 mins)",
+      "Weight": "1.09 kg",
+      "OS": "Windows 11 Pro",
+      "Screen Size": "14.0 inch 2.8K OLED (2880 x 1800, 120Hz, 100% DCI-P3)"
+    },
+    "tags": [
+      "ThinkPad",
+      "Business",
+      "Ultralight",
+      "Security",
+      "vPro",
+      "Enterprise"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Lenovo%20ThinkPad%20X1%20Carbon%20Gen%2012",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-laptop-4",
+    "name": "Asus ROG Zephyrus G16",
+    "brand": "Asus",
+    "category": "Laptops",
+    "price": 199990,
+    "description": "Ultra-slim gaming and AI laptop with CNC aluminum chassis, ROG Nebula 2.5K 240Hz OLED display, and AMD Ryzen AI 9 processor.",
+    "image": "/products/prod-laptop-4.svg",
+    "rating": 4.7,
+    "reviewCount": 165,
+    "available": true,
+    "stock": 16,
+    "features": [
+      "AMD Ryzen AI 9 HX 370 Processor with 50 TOPs NPU",
+      "NVIDIA GeForce RTX 4070 8GB GDDR6",
+      "16-inch ROG Nebula OLED 240Hz/0.2ms Display with G-SYNC",
+      "Slash Lighting on CNC aluminum lid",
+      "ROG Intelligent Cooling with Vapor Chamber"
+    ],
+    "specifications": {
+      "RAM": "32GB LPDDR5X",
+      "Storage": "1TB M.2 PCIe Gen4 NVMe SSD",
+      "Processor": "AMD Ryzen AI 9 HX 370 (12 cores, 24 threads)",
+      "Display": "16.0 inch 2.5K 240Hz OLED (2560 x 1600)",
+      "Graphics": "NVIDIA GeForce RTX 4070 8GB (105W TGP)",
+      "Battery": "90Wh (240W Power Adapter)",
+      "Weight": "1.85 kg",
+      "OS": "Windows 11 Home",
+      "Screen Size": "16.0 inch 2.5K 240Hz OLED (2560 x 1600)"
+    },
+    "tags": [
+      "Gaming",
+      "Creator",
+      "240Hz",
+      "OLED",
+      "Ryzen AI",
+      "RTX 4070"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Asus%20ROG%20Zephyrus%20G16",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-laptop-5",
+    "name": "HP Spectre x360 2-in-1",
+    "brand": "HP",
+    "category": "Laptops",
+    "price": 159990,
+    "description": "Convertible precision laptop with 360-degree gem-cut hinge, 9MP AI camera with night mode, OLED touch display, and rechargeable MPP 2.0 tilt pen included.",
+    "image": "/products/prod-laptop-5.svg",
+    "rating": 4.6,
+    "reviewCount": 98,
+    "available": true,
+    "stock": 22,
+    "features": [
+      "2-in-1 convertible design with 360-degree geared hinge",
+      "Intel Core Ultra 7 processor with AI noise reduction",
+      "14-inch 2.8K OLED Touch display with IMAX Enhanced certification",
+      "Poly Studio quad speakers for conference audio",
+      "HP Rechargeable MPP2.0 Tilt Pen included"
+    ],
+    "specifications": {
+      "RAM": "16GB LPDDR5X",
+      "Storage": "512GB PCIe Gen4 SSD",
+      "Processor": "Intel Core Ultra 7 155H",
+      "Display": "14.0 inch 2.8K OLED Touch (2880 x 1800, 120Hz)",
+      "Graphics": "Intel Arc Graphics",
+      "Battery": "68Wh (Up to 17 Hours)",
+      "Weight": "1.44 kg",
+      "OS": "Windows 11 Home",
+      "Screen Size": "14.0 inch 2.8K OLED Touch (2880 x 1800, 120Hz)"
+    },
+    "tags": [
+      "2-in-1",
+      "Touch",
+      "Convertible",
+      "OLED",
+      "Stylus",
+      "Elegance"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=HP%20Spectre%20x360%202-in-1",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-head-1",
+    "name": "Sony WH-1000XM5",
+    "brand": "Sony",
+    "category": "Headphones",
+    "price": 28990,
+    "description": "Industry-leading noise cancellation powered by dual processors and 8 microphones. Hi-Res Audio wireless, Speak-to-Chat, and 30 hours of continuous battery.",
+    "image": "/products/prod-head-1.svg",
+    "rating": 4.8,
+    "reviewCount": 680,
+    "available": true,
+    "stock": 60,
+    "features": [
+      "Dual processors controlling 8 microphones for unparalleled ANC",
+      "Auto NC Optimizer based on atmospheric pressure and wearing condition",
+      "30-hour battery life with 3-minute quick charging for 3 hours playback",
+      "LDAC codec support for 24-bit Hi-Res Wireless Audio",
+      "Multipoint connection pairing two Bluetooth devices simultaneously"
+    ],
+    "specifications": {
+      "Noise Cancellation": "Active (Dual Processor V1 + QN1)",
+      "Battery": "30 Hours (ANC On) / 40 Hours (ANC Off)",
+      "Connectivity": "Bluetooth 5.2 / 3.5mm Aux / LDAC / AAC",
+      "Type": "Over-Ear Closed Dynamic",
+      "Weight": "250g",
+      "Driver": "30mm Carbon Fiber Composite",
+      "Wireless": "Bluetooth 5.3",
+      "Battery Life": "30 Hours (ANC On) / 40 Hours (ANC Off)"
+    },
+    "tags": [
+      "Sony",
+      "ANC",
+      "Wireless",
+      "Hi-Res",
+      "Audiophile",
+      "Travel"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Sony%20WH-1000XM5",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-head-2",
+    "name": "Bose QuietComfort Ultra",
+    "brand": "Bose",
+    "category": "Headphones",
+    "price": 35900,
+    "description": "World-class active noise cancellation with breakthrough Bose Immersive Audio spatial sound, CustomTune technology, and ultra-luxurious protein leather ear cushions.",
+    "image": "/products/prod-head-2.svg",
+    "rating": 4.7,
+    "reviewCount": 310,
+    "available": true,
+    "stock": 30,
+    "features": [
+      "Bose Immersive Audio pushes spatial sound boundary",
+      "CustomTune technology tailors sound profile to your ears",
+      "Quiet, Aware, and Immersion listening modes",
+      "Up to 24 hours of listening per charge",
+      "Wind Block noise rejection for clear phone calls"
+    ],
+    "specifications": {
+      "Noise Cancellation": "Active (CustomTune Auto Acoustic)",
+      "Battery": "24 Hours (18 Hours in Immersive Mode)",
+      "Connectivity": "Bluetooth 5.3 (Snapdragon Sound / aptX Adaptive)",
+      "Type": "Over-Ear Wireless",
+      "Weight": "252g",
+      "Driver": "Custom Bose Acoustic Transducers",
+      "Wireless": "Bluetooth 5.3",
+      "Battery Life": "24 Hours (18 Hours in Immersive Mode)"
+    },
+    "tags": [
+      "Bose",
+      "QuietComfort",
+      "Spatial Audio",
+      "Comfort",
+      "ANC"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Bose%20QuietComfort%20Ultra",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-head-3",
+    "name": "Apple AirPods Max",
+    "brand": "Apple",
+    "category": "Headphones",
+    "price": 59900,
+    "description": "A perfect balance of exhilarating high-fidelity audio and the effortless magic of AirPods. Crafted with an anodized aluminum cup and breathable knit mesh canopy.",
+    "image": "/products/prod-head-3.svg",
+    "rating": 4.6,
+    "reviewCount": 420,
+    "available": true,
+    "stock": 25,
+    "features": [
+      "Apple-designed 40mm dynamic driver",
+      "Pro-level Active Noise Cancellation and Transparency Mode",
+      "Personalized Spatial Audio with dynamic head tracking",
+      "USB-C charging and lossless audio support via USB-C cable",
+      "Digital Crown for volume and playback control"
+    ],
+    "specifications": {
+      "Noise Cancellation": "Pro Active Noise Cancellation",
+      "Battery": "20 Hours with ANC / Spatial Audio enabled",
+      "Connectivity": "Bluetooth 5.3, USB-C Lossless",
+      "Type": "Over-Ear Circumaural",
+      "Weight": "384.8g",
+      "Chip": "Apple H1 headphone chip (each ear cup)",
+      "Wireless": "Bluetooth 5.3",
+      "Battery Life": "20 Hours with ANC / Spatial Audio enabled"
+    },
+    "tags": [
+      "Apple",
+      "AirPods",
+      "Aluminum",
+      "Spatial Audio",
+      "USB-C",
+      "Luxury"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Apple%20AirPods%20Max",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-head-4",
+    "name": "Sennheiser Momentum 4",
+    "brand": "Sennheiser",
+    "category": "Headphones",
+    "price": 24990,
+    "description": "Unsurpassed 60-hour battery life, signature Sennheiser audiophile sound, Adaptive Noise Cancellation, and customizable sound personalization via app.",
+    "image": "/products/prod-head-4.svg",
+    "rating": 4.7,
+    "reviewCount": 275,
+    "available": true,
+    "stock": 40,
+    "features": [
+      "Staggering 60-hour battery life with ANC enabled",
+      "Sennheiser 42mm audiophile-inspired transducer system",
+      "Adaptive Noise Cancellation with adjustable Transparency Mode",
+      "Built-in 5-band EQ with Sound Personalization test",
+      "Crystal-clear voice pickup with 4 beamforming mics"
+    ],
+    "specifications": {
+      "Noise Cancellation": "Hybrid Adaptive ANC",
+      "Battery": "60 Hours Playback",
+      "Connectivity": "Bluetooth 5.2 (aptX, aptX Adaptive, AAC, SBC)",
+      "Type": "Over-Ear Wireless",
+      "Weight": "293g",
+      "Driver": "42mm Dynamic",
+      "Wireless": "Bluetooth 5.3",
+      "Battery Life": "60 Hours Playback"
+    },
+    "tags": [
+      "Sennheiser",
+      "60hr Battery",
+      "Audiophile",
+      "Wireless",
+      "ANC"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Sennheiser%20Momentum%204",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-watch-1",
+    "name": "Apple Watch Ultra 2",
+    "brand": "Apple",
+    "category": "Smartwatches",
+    "price": 89900,
+    "description": "The most capable and rugged Apple Watch. Built for endurance, outdoor adventure, and water sports with a 49mm corrosion-resistant aerospace titanium case.",
+    "image": "/products/prod-watch-1.svg",
+    "rating": 4.9,
+    "reviewCount": 380,
+    "available": true,
+    "stock": 28,
+    "features": [
+      "49mm aerospace-grade titanium case with flat sapphire front crystal",
+      "Brightest display ever at 3000 nits with Night Mode",
+      "Up to 36 hours regular battery life / 72 hours in low power mode",
+      "Precision dual-frequency GPS (L1 and L5)",
+      "100m water resistance, dive rated to 40m with Depth gauge"
+    ],
+    "specifications": {
+      "Display": "49mm Always-On Retina LTPO OLED (3000 nits)",
+      "Battery": "36 Hours (72 Hours Low Power Mode)",
+      "Water Resistance": "100m (EN13319 Dive Certified 40m)",
+      "Health Features": "ECG, Blood Oxygen, Temperature Sensing, Heart Rate",
+      "Connectivity": "LTE Cellular + GPS + Wi-Fi + Bluetooth 5.3 + UWB2",
+      "Materials": "Titanium case & Sapphire crystal",
+      "GPS": "Dual-Frequency GPS",
+      "Calling": "Bluetooth & eSIM Calling",
+      "Compatibility": "Android & iOS"
+    },
+    "tags": [
+      "Apple Watch",
+      "Titanium",
+      "Rugged",
+      "GPS",
+      "Diving",
+      "Outdoor"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Apple%20Watch%20Ultra%202",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-watch-2",
+    "name": "Samsung Galaxy Watch 7 Ultra",
+    "brand": "Samsung",
+    "category": "Smartwatches",
+    "price": 59999,
+    "description": "Built to push boundaries. Cushion titanium design, 3nm processor, dual-frequency GPS, Energy Score AI insights, and 10ATM water resistance.",
+    "image": "/products/prod-watch-2.svg",
+    "rating": 4.6,
+    "reviewCount": 195,
+    "available": true,
+    "stock": 35,
+    "features": [
+      "Grade 4 Titanium cushion case with sapphire glass",
+      "Exynos W1000 3nm 5-core processor",
+      "Dual-frequency GPS (L1 + L5) for pinpoint urban tracking",
+      "Galaxy AI-powered Energy Score and sleep apnea detection",
+      "Up to 100 hours battery life in Power Saving mode"
+    ],
+    "specifications": {
+      "Display": "1.5 inch Super AMOLED (480 x 480, 3000 nits)",
+      "Battery": "590mAh (Up to 100 Hours Power Saving)",
+      "Water Resistance": "10ATM + IP68 + MIL-STD-810H",
+      "Health Features": "BioActive Sensor (Optical Heart + ECG + BIA), AGEs Index",
+      "Connectivity": "LTE + Bluetooth 5.3 + Wi-Fi + NFC",
+      "Materials": "Titanium Case",
+      "GPS": "Dual-Frequency GPS",
+      "Calling": "Bluetooth & eSIM Calling",
+      "Compatibility": "Android & iOS"
+    },
+    "tags": [
+      "Samsung",
+      "Galaxy Watch",
+      "Titanium",
+      "WearOS",
+      "Fitness"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Samsung%20Galaxy%20Watch%207%20Ultra",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-watch-3",
+    "name": "Garmin Fenix 8 Solar",
+    "brand": "Garmin",
+    "category": "Smartwatches",
+    "price": 94990,
+    "description": "Premium multisport GPS smartwatch built for serious athletes. Solar charging lens, built-in speaker and mic, 40m dive capability, and LED flashlight.",
+    "image": "/products/prod-watch-3.svg",
+    "rating": 4.8,
+    "reviewCount": 140,
+    "available": true,
+    "stock": 15,
+    "features": [
+      "Power Sapphire solar charging lens extending battery up to 28 days",
+      "Built-in speaker and microphone for voice commands and calls",
+      "40m dive-rated leakproof buttons and dive app support",
+      "Integrated multi-LED flashlight with variable intensities",
+      "TopoActive maps with dynamic round-trip routing"
+    ],
+    "specifications": {
+      "Display": "1.4 inch Sunlight-visible MIP Transflective with Solar (280 x 280)",
+      "Battery": "Up to 28 Days in Smartwatch mode (Solar)",
+      "Water Resistance": "10ATM / 40m Dive Rated",
+      "Health Features": "Wrist-based HR, Pulse Ox, Body Battery, Sleep Coach, HRV Status",
+      "Connectivity": "Multi-Band GPS, Bluetooth, ANT+, Wi-Fi",
+      "Materials": "Titanium Bezel and Fiber-Reinforced Polymer",
+      "GPS": "Dual-Frequency GPS",
+      "Calling": "Bluetooth & eSIM Calling",
+      "Compatibility": "Android & iOS"
+    },
+    "tags": [
+      "Garmin",
+      "Solar",
+      "Triathlon",
+      "Battery Beast",
+      "Titanium",
+      "Extreme"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Garmin%20Fenix%208%20Solar",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-watch-4",
+    "name": "Google Pixel Watch 3",
+    "brand": "Google",
+    "category": "Smartwatches",
+    "price": 39900,
+    "description": "Larger 45mm Actua display with 2x peak brightness, advanced running guidance from Fitbit, Loss of Pulse Detection, and seamless Google ecosystem integration.",
+    "image": "/products/prod-watch-4.svg",
+    "rating": 4.5,
+    "reviewCount": 115,
+    "available": true,
+    "stock": 32,
+    "features": [
+      "Actua AMOLED display with ultra-thin bezels reaching 2000 nits",
+      "Fitbit Daily Readiness Score and Target Load tracking",
+      "Loss of Pulse Detection with emergency services dispatch",
+      "Seamless integration with Pixel Camera, Google Home, and Maps",
+      "Fast charging delivering 50% charge in 28 minutes"
+    ],
+    "specifications": {
+      "Display": "45mm Actua AMOLED LTPO (1-60Hz, 2000 nits)",
+      "Battery": "307mAh (24 Hours Always-On Display)",
+      "Water Resistance": "5ATM (50 meters)",
+      "Health Features": "ECG, cEDA stress sensor, SpO2, Skin Temp, Heart Rate",
+      "Connectivity": "4G LTE + Bluetooth 5.3 + Wi-Fi + UWB",
+      "Materials": "100% Recycled Aluminum case & 3D Corning Gorilla Glass 5",
+      "GPS": "Dual-Frequency GPS",
+      "Calling": "Bluetooth & eSIM Calling",
+      "Compatibility": "Android & iOS"
+    },
+    "tags": [
+      "Google",
+      "Pixel",
+      "Fitbit",
+      "WearOS",
+      "Health",
+      "Smart"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Google%20Pixel%20Watch%203",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-tab-1",
+    "name": "Apple iPad Pro 13\" M4",
+    "brand": "Apple",
+    "category": "Tablets",
+    "price": 129900,
+    "description": "The thinnest Apple product ever made (5.1mm). Powered by the groundbreaking M4 chip and revolutionary Ultra Retina XDR tandem OLED display.",
+    "image": "/products/prod-tab-1.svg",
+    "rating": 4.9,
+    "reviewCount": 280,
+    "available": true,
+    "stock": 25,
+    "features": [
+      "Ultra Retina XDR display with state-of-the-art Tandem OLED technology",
+      "Apple M4 chip with 9-core CPU and 10-core GPU with hardware ray tracing",
+      "Ultra-thin 5.1mm design with 100% recycled aluminum enclosure",
+      "Support for Apple Pencil Pro with haptic feedback and barrel roll",
+      "Landscape 12MP Center Stage Ultra Wide front camera"
+    ],
+    "specifications": {
+      "RAM": "8GB Unified Memory",
+      "Storage": "256GB NVMe",
+      "Processor": "Apple M4 Chip (9-core CPU, 10-core GPU, 16-core NPU)",
+      "Display": "13.0 inch Tandem OLED Ultra Retina XDR (2752 x 2064, 120Hz)",
+      "Battery": "38.99Wh (Up to 10 Hours Web Browsing)",
+      "Weight": "579g",
+      "OS": "iPadOS 18",
+      "Screen Size": "13.0 inch Tandem OLED Ultra Retina XDR (2752 x 2064, 120Hz)",
+      "Cellular/Wi-Fi": "Wi-Fi 7 + 5G"
+    },
+    "tags": [
+      "iPad Pro",
+      "Tandem OLED",
+      "M4",
+      "Apple Pencil",
+      "Design",
+      "Ultra-thin"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Apple%20iPad%20Pro%2013%22%20M4",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-tab-2",
+    "name": "Samsung Galaxy Tab S10 Ultra",
+    "brand": "Samsung",
+    "category": "Tablets",
+    "price": 108999,
+    "description": "Colossal 14.6-inch Dynamic AMOLED 2X display with anti-reflective coating, bundled low-latency S Pen, Galaxy AI productivity tools, and IP68 resistance.",
+    "image": "/products/prod-tab-2.svg",
+    "rating": 4.7,
+    "reviewCount": 160,
+    "available": true,
+    "stock": 20,
+    "features": [
+      "Massive 14.6-inch Dynamic AMOLED 2X with anti-reflection glass",
+      "Included low-latency S Pen with Air Actions and magnetic charging",
+      "Galaxy AI suite: Note Assist, Sketch to Image, and Circle to Search",
+      "Enhanced Armor Aluminum frame with IP68 water and dust rating",
+      "Quad stereo speakers tuned by AKG with Dolby Atmos"
+    ],
+    "specifications": {
+      "RAM": "12GB",
+      "Storage": "256GB (microSD expandable up to 1.5TB)",
+      "Processor": "MediaTek Dimensity 9300+ (4nm flagship)",
+      "Display": "14.6 inch Dynamic AMOLED 2X (2960 x 1848, 120Hz)",
+      "Battery": "11200mAh (45W Fast Charging)",
+      "Weight": "718g",
+      "OS": "Android 14 (One UI 6.1.1 with DeX)",
+      "Screen Size": "14.6 inch Dynamic AMOLED 2X (2960 x 1848, 120Hz)",
+      "Cellular/Wi-Fi": "Wi-Fi 7 + 5G"
+    },
+    "tags": [
+      "Samsung",
+      "AMOLED",
+      "S-Pen",
+      "DeX",
+      "Big Screen",
+      "Productivity"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Samsung%20Galaxy%20Tab%20S10%20Ultra",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-tab-3",
+    "name": "Microsoft Surface Pro 11 Copilot+",
+    "brand": "Microsoft",
+    "category": "Tablets",
+    "price": 116990,
+    "description": "Next-generation 2-in-1 AI PC powered by Snapdragon X Elite. Brilliant 120Hz OLED screen, built-in kickstand, and all-day battery life with Windows Copilot+ AI.",
+    "image": "/products/prod-tab-3.svg",
+    "rating": 4.6,
+    "reviewCount": 135,
+    "available": true,
+    "stock": 18,
+    "features": [
+      "Snapdragon X Elite processor with 45 TOPS Qualcomm Hexagon NPU",
+      "PixelSense Flow 13-inch OLED touchscreen with 120Hz refresh rate",
+      "Iconic built-in 165-degree friction kickstand",
+      "Windows Copilot+ PC features: Cocreator, Live Captions, and Recall",
+      "Quad HD front camera with Windows Studio Effects"
+    ],
+    "specifications": {
+      "RAM": "16GB LPDDR5X",
+      "Storage": "512GB Gen 4 Removable SSD",
+      "Processor": "Snapdragon X Elite (12 cores, 3.8GHz)",
+      "Display": "13.0 inch PixelSense Flow OLED (2880 x 1920, 120Hz)",
+      "Battery": "53Wh (Up to 14 Hours Active Video)",
+      "Weight": "895g",
+      "OS": "Windows 11 Pro on ARM",
+      "Screen Size": "13.0 inch PixelSense Flow OLED (2880 x 1920, 120Hz)",
+      "Cellular/Wi-Fi": "Wi-Fi 7 + 5G"
+    },
+    "tags": [
+      "Surface",
+      "Copilot+",
+      "OLED",
+      "Snapdragon",
+      "2-in-1",
+      "Windows 11"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Microsoft%20Surface%20Pro%2011%20Copilot%2B",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-acc-1",
+    "name": "Anker Prime 100W GaN Fast Charger",
+    "brand": "Anker",
+    "category": "Accessories",
+    "price": 6499,
+    "description": "Ultra-compact 100W Gallium Nitride (GaN) fast charger with 3 ports (2x USB-C, 1x USB-A). Capable of high-speed charging a MacBook Pro, iPhone, and iPad simultaneously.",
+    "image": "/products/prod-acc-1.svg",
+    "rating": 4.9,
+    "reviewCount": 890,
+    "available": true,
+    "stock": 120,
+    "features": [
+      "100W Max Fast Charging via PowerIQ 4.0 with Dynamic Power Distribution",
+      "43% smaller than original Apple 96W charger with foldable prongs",
+      "ActiveShield 2.0 real-time temperature monitoring 3 million times per day",
+      "Dual USB-C and single USB-A ports for charging 3 devices at once",
+      "Universal compatibility with MacBook, iPhone, Galaxy, Dell XPS, and more"
+    ],
+    "specifications": {
+      "Total Wattage": "100W Max Output",
+      "Ports": "2 x USB-C, 1 x USB-A",
+      "Technology": "GaNPrime (Gallium Nitride 3rd Gen)",
+      "Input Voltage": "100V - 240V AC (Worldwide)",
+      "Dimensions": "43.5 x 39 x 60.5 mm",
+      "Weight": "183g",
+      "Compatibility": "Universal (Windows, macOS, iOS, Android)",
+      "Type": "Accessories"
+    },
+    "tags": [
+      "Charger",
+      "GaN",
+      "100W",
+      "Fast Charging",
+      "Travel",
+      "Anker"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Anker%20Prime%20100W%20GaN%20Fast%20Charger",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-acc-2",
+    "name": "Logitech MX Master 3S Wireless Mouse",
+    "brand": "Logitech",
+    "category": "Accessories",
+    "price": 8995,
+    "description": "An iconic precision mouse remastered for ultimate feel and workflow. Quiet clicks with 90% less noise, 8000 DPI track-on-glass sensor, and MagSpeed electromagnetic scroll.",
+    "image": "/products/prod-acc-2.svg",
+    "rating": 4.8,
+    "reviewCount": 1150,
+    "available": true,
+    "stock": 85,
+    "features": [
+      "Quiet Click buttons delivering satisfying tactile feel with 90% less sound",
+      "8000 DPI Darkfield tracking on any surface—even glass",
+      "MagSpeed Electromagnetic scrolling: scroll 1000 lines per second",
+      "Ergonomic hand sculpted silhouette supporting palm and fingers",
+      "Logi Bolt USB receiver and Bluetooth low energy dual connectivity"
+    ],
+    "specifications": {
+      "DPI": "200 to 8000 DPI (Customizable in 50 DPI increments)",
+      "Battery": "500mAh Rechargeable Li-Po (Up to 70 days per full charge)",
+      "Buttons": "7 buttons (Left/Right, Back/Forward, App-Switch, Wheel Mode, Middle)",
+      "Connectivity": "Bluetooth Low Energy + Logi Bolt USB Receiver",
+      "Weight": "141g",
+      "Compatibility": "Windows, macOS, Linux, iPadOS, ChromeOS",
+      "Type": "Accessories"
+    },
+    "tags": [
+      "Logitech",
+      "MX Master",
+      "Ergonomic",
+      "Mouse",
+      "Productivity",
+      "Bluetooth"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Logitech%20MX%20Master%203S%20Wireless%20Mouse",
+    "availability": "In Stock"
+  },
+  {
+    "id": "prod-acc-3",
+    "name": "Apple MagSafe Duo Fast Charger",
+    "brand": "Apple",
+    "category": "Accessories",
+    "price": 13900,
+    "description": "Conveniently charges your compatible iPhone, Apple Watch, Wireless Charging Case for AirPods, and other Qi-certified devices. Folds neatly for effortless travel.",
+    "image": "/products/prod-acc-3.svg",
+    "rating": 4.6,
+    "reviewCount": 260,
+    "available": true,
+    "stock": 42,
+    "features": [
+      "Dual wireless charging pad for iPhone & Apple Watch simultaneously",
+      "Precise magnetic alignment with MagSafe technology",
+      "Flip-up Apple Watch charging puck supporting Nightstand mode",
+      "Folds flat in half for ultra-compact travel packing",
+      "USB-C to Lightning cable included"
+    ],
+    "specifications": {
+      "Output": "Up to 14W Fast Wireless Charging with 27W+ adapter",
+      "Compatibility": "iPhone 12 through 16 series, Apple Watch (all models), AirPods",
+      "Design": "Bi-fold flexible white silicone & polyurethane",
+      "Input": "Lightning to USB-C",
+      "Dimensions (Folded)": "88.8 x 80.5 x 21.6 mm",
+      "Weight": "132g",
+      "Type": "Accessories"
+    },
+    "tags": [
+      "Apple",
+      "MagSafe",
+      "Wireless Charging",
+      "Travel",
+      "Duo",
+      "Accessories"
+    ],
+    "amazonUrl": "https://www.amazon.in/s?k=Apple%20MagSafe%20Duo%20Fast%20Charger",
+    "availability": "In Stock"
+  }
+]

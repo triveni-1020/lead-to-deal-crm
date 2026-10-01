@@ -1,0 +1,68 @@
+[
+  {
+    "id": "res-1",
+    "title": "2026 Enterprise Mobility & Device Fleet Strategy",
+    "category": "Whitepaper",
+    "description": "Comprehensive blueprint for provisioning, securing, and managing multi-vendor smartphone and laptop fleets across modern hybrid workforces.",
+    "fileSize": "3.8 MB",
+    "fileType": "PDF",
+    "downloadUrl": "/downloads/enterprise-mobility-2026.pdf",
+    "downloadsCount": 1422,
+    "publishedDate": "2026-02-15"
+  },
+  {
+    "id": "res-2",
+    "title": "Hardware Specifications & Architecture Comparison Guide",
+    "category": "Comparison Guide",
+    "description": "Side-by-side technical benchmarks comparing Snapdragon 8 Elite, Apple A18 Pro, Intel Core Ultra 9, and Apple M3 Pro workstations.",
+    "fileSize": "2.4 MB",
+    "fileType": "PDF",
+    "downloadUrl": "/downloads/hardware-benchmarks-guide.pdf",
+    "downloadsCount": 2840,
+    "publishedDate": "2026-03-01"
+  },
+  {
+    "id": "res-3",
+    "title": "Enterprise Knox & MDM Zero-Trust Security Whitepaper",
+    "category": "Technical Document",
+    "description": "Implementation guide for hardware-backed cryptography, biometric authentication, and automated policy compliance across connected devices.",
+    "fileSize": "4.1 MB",
+    "fileType": "PDF",
+    "downloadUrl": "/downloads/mdm-zero-trust-whitepaper.pdf",
+    "downloadsCount": 980,
+    "publishedDate": "2026-01-20"
+  },
+  {
+    "id": "res-4",
+    "title": "FinTech High-Frequency Workstations Case Study",
+    "category": "Case Study",
+    "description": "How a Tier-1 financial institution deployed Dell XPS and ThinkPad fleets with ultra-low latency networking to increase trader throughput by 34%.",
+    "fileSize": "1.9 MB",
+    "fileType": "PDF",
+    "downloadUrl": "/downloads/fintech-workstations-case-study.pdf",
+    "downloadsCount": 1150,
+    "publishedDate": "2026-04-10"
+  },
+  {
+    "id": "res-5",
+    "title": "Audiophile Acoustics & Active Noise Cancellation Deep Dive",
+    "category": "Product Guide",
+    "description": "Technical analysis of custom 40mm beryllium drivers, lossless LDAC/aptX Adaptive codecs, and adaptive real-time sound optimization.",
+    "fileSize": "2.1 MB",
+    "fileType": "PDF",
+    "downloadUrl": "/downloads/anc-acoustics-deep-dive.pdf",
+    "downloadsCount": 760,
+    "publishedDate": "2026-02-28"
+  },
+  {
+    "id": "res-6",
+    "title": "Enterprise Device Fleet Volume Procurement Catalog",
+    "category": "Product Brochure",
+    "description": "Full product line catalog detailing bulk volume pricing, SLA warranties, custom etching, and dedicated account executive support tiers.",
+    "fileSize": "5.6 MB",
+    "fileType": "PDF",
+    "downloadUrl": "/downloads/volume-procurement-brochure.pdf",
+    "downloadsCount": 3210,
+    "publishedDate": "2026-03-25"
+  }
+]

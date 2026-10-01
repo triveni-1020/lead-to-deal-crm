@@ -1,0 +1,216 @@
+[
+  {
+    "customerId": "3",
+    "items": [
+      {
+        "productId": "prod-phone-1",
+        "quantity": 2,
+        "addedAt": "2026-09-30T16:38:18.719Z",
+        "updatedAt": "2026-10-01T07:27:29.472Z"
+      }
+    ],
+    "updatedAt": "2026-10-01T07:27:29.472Z"
+  },
+  {
+    "customerId": "8",
+    "items": [
+      {
+        "productId": "prod-phone-1",
+        "quantity": 2,
+        "addedAt": "2026-09-30T16:12:06.535Z"
+      }
+    ],
+    "updatedAt": "2026-09-30T16:12:06.535Z"
+  },
+  {
+    "customerId": "9",
+    "items": [
+      {
+        "productId": "prod-phone-1",
+        "quantity": 2,
+        "addedAt": "2026-09-30T16:14:34.167Z"
+      }
+    ],
+    "updatedAt": "2026-09-30T16:14:34.167Z"
+  },
+  {
+    "customerId": "10",
+    "items": [],
+    "updatedAt": "2026-09-30T16:33:10.357Z"
+  },
+  {
+    "customerId": "11",
+    "items": [],
+    "updatedAt": "2026-09-30T16:34:43.596Z"
+  },
+  {
+    "customerId": "12",
+    "items": [],
+    "updatedAt": "2026-09-30T16:36:34.311Z"
+  },
+  {
+    "customerId": "14",
+    "items": [],
+    "updatedAt": "2026-09-30T16:47:32.706Z"
+  },
+  {
+    "customerId": "16",
+    "items": [],
+    "updatedAt": "2026-09-30T17:02:41.297Z"
+  },
+  {
+    "customerId": "18",
+    "items": [],
+    "updatedAt": "2026-09-30T17:03:32.829Z"
+  },
+  {
+    "customerId": "20",
+    "items": [],
+    "updatedAt": "2026-09-30T17:13:08.366Z"
+  },
+  {
+    "customerId": "21",
+    "items": [],
+    "updatedAt": "2026-09-30T17:13:39.659Z"
+  },
+  {
+    "customerId": "23",
+    "items": [],
+    "updatedAt": "2026-09-30T17:14:08.395Z"
+  },
+  {
+    "customerId": "27",
+    "items": [],
+    "updatedAt": "2026-09-30T17:27:18.571Z"
+  },
+  {
+    "customerId": "28",
+    "items": [],
+    "updatedAt": "2026-09-30T17:27:47.238Z"
+  },
+  {
+    "customerId": "30",
+    "items": [],
+    "updatedAt": "2026-09-30T17:28:11.873Z"
+  },
+  {
+    "customerId": "38",
+    "items": [],
+    "updatedAt": "2026-09-30T18:01:47.818Z"
+  },
+  {
+    "customerId": "40",
+    "items": [],
+    "updatedAt": "2026-09-30T18:02:22.388Z"
+  },
+  {
+    "customerId": "44",
+    "items": [],
+    "updatedAt": "2026-09-30T18:12:30.683Z"
+  },
+  {
+    "customerId": "47",
+    "items": [],
+    "updatedAt": "2026-09-30T18:14:26.624Z"
+  },
+  {
+    "customerId": "53",
+    "items": [],
+    "updatedAt": "2026-09-30T18:25:59.441Z"
+  },
+  {
+    "customerId": "55",
+    "items": [],
+    "updatedAt": "2026-09-30T18:26:17.835Z"
+  },
+  {
+    "customerId": "59",
+    "items": [],
+    "updatedAt": "2026-10-01T03:31:35.845Z"
+  },
+  {
+    "customerId": "60",
+    "items": [
+      {
+        "productId": "prod-acc-2",
+        "quantity": 2,
+        "addedAt": "2026-10-01T03:35:39.961Z"
+      }
+    ],
+    "updatedAt": "2026-10-01T03:35:39.961Z"
+  },
+  {
+    "customerId": "61",
+    "items": [
+      {
+        "productId": "prod-acc-2",
+        "quantity": 2,
+        "addedAt": "2026-10-01T03:36:32.096Z"
+      }
+    ],
+    "updatedAt": "2026-10-01T03:36:32.097Z"
+  },
+  {
+    "customerId": "66",
+    "items": [],
+    "updatedAt": "2026-10-01T03:50:55.501Z"
+  },
+  {
+    "customerId": "67",
+    "items": [],
+    "updatedAt": "2026-10-01T03:51:18.792Z"
+  },
+  {
+    "customerId": "69",
+    "items": [],
+    "updatedAt": "2026-10-01T03:51:41.301Z"
+  },
+  {
+    "customerId": "75",
+    "items": [],
+    "updatedAt": "2026-10-01T04:11:06.097Z"
+  },
+  {
+    "customerId": "76",
+    "items": [
+      {
+        "productId": "prod-acc-2",
+        "quantity": 2,
+        "addedAt": "2026-10-01T04:12:58.572Z"
+      }
+    ],
+    "updatedAt": "2026-10-01T04:12:58.572Z"
+  },
+  {
+    "customerId": "77",
+    "items": [
+      {
+        "productId": "prod-phone-4",
+        "quantity": 1,
+        "addedAt": "2026-10-01T07:00:31.022Z"
+      }
+    ],
+    "updatedAt": "2026-10-01T07:00:31.022Z"
+  },
+  {
+    "customerId": "78",
+    "items": [],
+    "updatedAt": "2026-10-01T07:01:51.419Z"
+  },
+  {
+    "customerId": "79",
+    "items": [],
+    "updatedAt": "2026-10-01T07:05:49.137Z"
+  },
+  {
+    "customerId": "80",
+    "items": [
+      {
+        "productId": "prod-laptop-4",
+        "quantity": 1,
+        "addedAt": "2026-10-01T07:06:17.884Z"
+      }
+    ],
+    "updatedAt": "2026-10-01T07:06:17.884Z"
+  }
+]

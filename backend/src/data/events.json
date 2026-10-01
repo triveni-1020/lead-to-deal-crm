@@ -1,0 +1,921 @@
+[
+  {
+    "id": "EVT-1042",
+    "eventId": "EVT-1042",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "LOGOUT",
+    "description": "Customer signed out of account session",
+    "metadata": {
+      "customerId": 3
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T16:23:06.003Z",
+    "createdBy": {
+      "id": "3",
+      "name": "Customer",
+      "email": ""
+    },
+    "createdAt": "2026-10-01T16:23:06.003Z"
+  },
+  {
+    "id": "EVT-1041",
+    "eventId": "EVT-1041",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "DASHBOARD_VISIT",
+    "description": "Visited customer dashboard",
+    "metadata": {},
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T16:22:51.129Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T16:22:51.129Z"
+  },
+  {
+    "id": "EVT-1040",
+    "eventId": "EVT-1040",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "LOGIN",
+    "description": "Customer signed into account portal: Triveni Reddy",
+    "metadata": {
+      "customerId": 3,
+      "email": "reddytriveni594@gmail.com"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T16:22:51.080Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T16:22:51.080Z"
+  },
+  {
+    "id": "EVT-1039",
+    "eventId": "EVT-1039",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "LOGOUT",
+    "description": "Customer signed out of account session",
+    "metadata": {
+      "customerId": 3
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:28:48.210Z",
+    "createdBy": {
+      "id": "3",
+      "name": "Customer",
+      "email": ""
+    },
+    "createdAt": "2026-10-01T07:28:48.210Z"
+  },
+  {
+    "id": "EVT-1038",
+    "eventId": "EVT-1038",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": "prod-phone-1",
+    "eventType": "PRODUCT_DETAIL_VIEW",
+    "description": "Explored full specifications for Samsung Galaxy S25 Ultra",
+    "metadata": {
+      "productId": "prod-phone-1",
+      "productName": "Samsung Galaxy S25 Ultra",
+      "brand": "Samsung",
+      "category": "Smartphones"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:28:14.098Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:28:14.098Z"
+  },
+  {
+    "id": "EVT-1037",
+    "eventId": "EVT-1037",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": "prod-phone-1",
+    "eventType": "PRODUCT_VIEW",
+    "description": "Viewed product Samsung Galaxy S25 Ultra",
+    "metadata": {
+      "productId": "prod-phone-1",
+      "productName": "Samsung Galaxy S25 Ultra",
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "price": 109999
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:28:14.058Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:28:14.058Z"
+  },
+  {
+    "id": "EVT-1036",
+    "eventId": "EVT-1036",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "DASHBOARD_VISIT",
+    "description": "Visited customer dashboard",
+    "metadata": {},
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:28:11.183Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:28:11.183Z"
+  },
+  {
+    "id": "EVT-1035",
+    "eventId": "EVT-1035",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "LOGIN",
+    "description": "Customer signed into account portal: Triveni Reddy",
+    "metadata": {
+      "customerId": 3,
+      "email": "reddytriveni594@gmail.com"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:28:11.156Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:28:11.156Z"
+  },
+  {
+    "id": "EVT-1034",
+    "eventId": "EVT-1034",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "LOGOUT",
+    "description": "Customer signed out of account session",
+    "metadata": {
+      "customerId": 3
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:27:49.747Z",
+    "createdBy": {
+      "id": "3",
+      "name": "Customer",
+      "email": ""
+    },
+    "createdAt": "2026-10-01T07:27:49.747Z"
+  },
+  {
+    "id": "EVT-1033",
+    "eventId": "EVT-1033",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": "prod-phone-1",
+    "eventType": "PRODUCT_DETAIL_VIEW",
+    "description": "Explored full specifications for Samsung Galaxy S25 Ultra",
+    "metadata": {
+      "productId": "prod-phone-1",
+      "productName": "Samsung Galaxy S25 Ultra",
+      "brand": "Samsung",
+      "category": "Smartphones"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:27:44.856Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:27:44.857Z"
+  },
+  {
+    "id": "EVT-1032",
+    "eventId": "EVT-1032",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": "prod-phone-1",
+    "eventType": "PRODUCT_VIEW",
+    "description": "Viewed product Samsung Galaxy S25 Ultra",
+    "metadata": {
+      "productId": "prod-phone-1",
+      "productName": "Samsung Galaxy S25 Ultra",
+      "brand": "Samsung",
+      "category": "Smartphones",
+      "price": 109999
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:27:44.808Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:27:44.808Z"
+  },
+  {
+    "id": "EVT-1031",
+    "eventId": "EVT-1031",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": "prod-phone-1",
+    "eventType": "WISHLIST_ADD",
+    "description": "Added Samsung Galaxy S25 Ultra to wishlist",
+    "metadata": {
+      "productId": "prod-phone-1",
+      "productName": "Samsung Galaxy S25 Ultra",
+      "category": "Smartphones",
+      "price": 109999
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:27:31.696Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:27:31.696Z"
+  },
+  {
+    "id": "EVT-1030",
+    "eventId": "EVT-1030",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": "prod-phone-1",
+    "eventType": "CART_ADD",
+    "description": "Added 1x Samsung Galaxy S25 Ultra to cart",
+    "metadata": {
+      "productId": "prod-phone-1",
+      "productName": "Samsung Galaxy S25 Ultra",
+      "quantity": 1,
+      "price": 109999
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:27:29.477Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:27:29.477Z"
+  },
+  {
+    "id": "EVT-1029",
+    "eventId": "EVT-1029",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "DASHBOARD_VISIT",
+    "description": "Visited customer dashboard",
+    "metadata": {},
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:27:14.920Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:27:14.920Z"
+  },
+  {
+    "id": "EVT-1028",
+    "eventId": "EVT-1028",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "LOGIN",
+    "description": "Customer signed into account portal: Triveni Reddy",
+    "metadata": {
+      "customerId": 3,
+      "email": "reddytriveni594@gmail.com"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:27:14.865Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:27:14.865Z"
+  },
+  {
+    "id": "EVT-1027",
+    "eventId": "EVT-1027",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "LOGOUT",
+    "description": "Customer signed out of account session",
+    "metadata": {
+      "customerId": 3
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:24:02.543Z",
+    "createdBy": {
+      "id": "3",
+      "name": "Customer",
+      "email": ""
+    },
+    "createdAt": "2026-10-01T07:24:02.543Z"
+  },
+  {
+    "id": "EVT-1026",
+    "eventId": "EVT-1026",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "DASHBOARD_VISIT",
+    "description": "Visited customer dashboard",
+    "metadata": {},
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:24:00.425Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:24:00.425Z"
+  },
+  {
+    "id": "EVT-1025",
+    "eventId": "EVT-1025",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "DASHBOARD_VISIT",
+    "description": "Visited customer dashboard",
+    "metadata": {},
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:07:59.504Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:07:59.504Z"
+  },
+  {
+    "id": "EVT-1024",
+    "eventId": "EVT-1024",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "LOGIN",
+    "description": "Customer signed into account portal: Triveni Reddy",
+    "metadata": {
+      "customerId": 3,
+      "email": "reddytriveni594@gmail.com"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:07:59.463Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:07:59.464Z"
+  },
+  {
+    "id": "EVT-1023",
+    "eventId": "EVT-1023",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "LOGIN",
+    "description": "Customer signed into account portal: Triveni Reddy",
+    "metadata": {
+      "customerId": 3,
+      "email": "reddytriveni594@gmail.com"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:07:02.721Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:07:02.721Z"
+  },
+  {
+    "id": "EVT-1022",
+    "eventId": "EVT-1022",
+    "leadId": "LEAD-1005",
+    "customerId": "80",
+    "productId": null,
+    "eventType": "LOGOUT",
+    "description": "Customer signed out of account session",
+    "metadata": {
+      "customerId": 80
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:06:23.352Z",
+    "createdBy": {
+      "id": "80",
+      "name": "Customer",
+      "email": ""
+    },
+    "createdAt": "2026-10-01T07:06:23.352Z"
+  },
+  {
+    "id": "EVT-1021",
+    "eventId": "EVT-1021",
+    "leadId": "LEAD-1005",
+    "customerId": "80",
+    "productId": "prod-laptop-4",
+    "eventType": "CHECKOUT_STARTED",
+    "description": "Started checkout process",
+    "metadata": {
+      "productId": "prod-laptop-4"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:06:19.197Z",
+    "createdBy": {
+      "id": 80,
+      "name": "pooja",
+      "email": "poojasri.yedla6@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:06:19.198Z"
+  },
+  {
+    "id": "EVT-1020",
+    "eventId": "EVT-1020",
+    "leadId": "LEAD-1005",
+    "customerId": "80",
+    "productId": "prod-laptop-4",
+    "eventType": "PRODUCT_DETAIL_VIEW",
+    "description": "Explored full specifications for Asus ROG Zephyrus G16",
+    "metadata": {
+      "productId": "prod-laptop-4",
+      "productName": "Asus ROG Zephyrus G16",
+      "brand": "Asus",
+      "category": "Laptops"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:06:19.105Z",
+    "createdBy": {
+      "id": 80,
+      "name": "pooja",
+      "email": "poojasri.yedla6@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:06:19.105Z"
+  },
+  {
+    "id": "EVT-1019",
+    "eventId": "EVT-1019",
+    "leadId": "LEAD-1005",
+    "customerId": "80",
+    "productId": "prod-laptop-4",
+    "eventType": "PRODUCT_VIEW",
+    "description": "Viewed product Asus ROG Zephyrus G16",
+    "metadata": {
+      "productId": "prod-laptop-4",
+      "productName": "Asus ROG Zephyrus G16",
+      "brand": "Asus",
+      "category": "Laptops",
+      "price": 199990
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:06:19.059Z",
+    "createdBy": {
+      "id": 80,
+      "name": "pooja",
+      "email": "poojasri.yedla6@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:06:19.059Z"
+  },
+  {
+    "id": "EVT-1018",
+    "eventId": "EVT-1018",
+    "leadId": "LEAD-1005",
+    "customerId": "80",
+    "productId": "prod-laptop-4",
+    "eventType": "BUY_NOW",
+    "description": "Clicked Buy Now for Asus ROG Zephyrus G16",
+    "metadata": {
+      "productId": "prod-laptop-4",
+      "productName": "Asus ROG Zephyrus G16",
+      "price": 199990,
+      "brand": "Asus"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:06:18.963Z",
+    "createdBy": {
+      "id": 80,
+      "name": "pooja",
+      "email": "poojasri.yedla6@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:06:18.963Z"
+  },
+  {
+    "id": "EVT-1017",
+    "eventId": "EVT-1017",
+    "leadId": "LEAD-1005",
+    "customerId": "80",
+    "productId": "prod-laptop-4",
+    "eventType": "CART_ADD",
+    "description": "Added 1x Asus ROG Zephyrus G16 to cart",
+    "metadata": {
+      "productId": "prod-laptop-4",
+      "productName": "Asus ROG Zephyrus G16",
+      "quantity": 1,
+      "price": 199990
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:06:17.891Z",
+    "createdBy": {
+      "id": 80,
+      "name": "pooja",
+      "email": "poojasri.yedla6@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:06:17.891Z"
+  },
+  {
+    "id": "EVT-1016",
+    "eventId": "EVT-1016",
+    "leadId": "LEAD-1005",
+    "customerId": "80",
+    "productId": null,
+    "eventType": "DASHBOARD_VISIT",
+    "description": "Visited customer dashboard",
+    "metadata": {},
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:06:13.795Z",
+    "createdBy": {
+      "id": 80,
+      "name": "pooja",
+      "email": "poojasri.yedla6@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:06:13.795Z"
+  },
+  {
+    "id": "EVT-1015",
+    "eventId": "EVT-1015",
+    "leadId": "LEAD-1005",
+    "customerId": "80",
+    "productId": null,
+    "eventType": "LEAD_REGISTERED",
+    "description": "Customer account registered: pooja (Personal Account)",
+    "metadata": {
+      "customerId": 80,
+      "email": "poojasri.yedla6@gmail.com",
+      "company": "Personal Account",
+      "industry": "Consumer Electronics"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:06:13.729Z",
+    "createdBy": {
+      "id": 80,
+      "name": "pooja",
+      "email": "poojasri.yedla6@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:06:13.729Z"
+  },
+  {
+    "id": "EVT-1014",
+    "eventId": "EVT-1014",
+    "leadId": "LEAD-1004",
+    "customerId": "79",
+    "productId": null,
+    "eventType": "LOGOUT",
+    "description": "Customer signed out of account session",
+    "metadata": {
+      "customerId": 79
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:05:50.837Z",
+    "createdBy": {
+      "id": "79",
+      "name": "Customer",
+      "email": ""
+    },
+    "createdAt": "2026-10-01T07:05:50.837Z"
+  },
+  {
+    "id": "EVT-1013",
+    "eventId": "EVT-1013",
+    "leadId": "LEAD-1004",
+    "customerId": "79",
+    "productId": null,
+    "eventType": "DASHBOARD_VISIT",
+    "description": "Visited customer dashboard",
+    "metadata": {},
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:05:49.139Z",
+    "createdBy": {
+      "id": 79,
+      "name": "poojitha",
+      "email": "poojithap@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:05:49.139Z"
+  },
+  {
+    "id": "EVT-1012",
+    "eventId": "EVT-1012",
+    "leadId": "LEAD-1004",
+    "customerId": "79",
+    "productId": null,
+    "eventType": "LEAD_REGISTERED",
+    "description": "Customer account registered: poojitha (Personal Account)",
+    "metadata": {
+      "customerId": 79,
+      "email": "poojithap@gmail.com",
+      "company": "Personal Account",
+      "industry": "Consumer Electronics"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:05:49.082Z",
+    "createdBy": {
+      "id": 79,
+      "name": "poojitha",
+      "email": "poojithap@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:05:49.082Z"
+  },
+  {
+    "id": "EVT-1011",
+    "eventId": "EVT-1011",
+    "leadId": "LEAD-1003",
+    "customerId": "78",
+    "productId": null,
+    "eventType": "LOGOUT",
+    "description": "Customer signed out of account session",
+    "metadata": {
+      "customerId": 78
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:01:53.213Z",
+    "createdBy": {
+      "id": "78",
+      "name": "Customer",
+      "email": ""
+    },
+    "createdAt": "2026-10-01T07:01:53.213Z"
+  },
+  {
+    "id": "EVT-1010",
+    "eventId": "EVT-1010",
+    "leadId": "LEAD-1003",
+    "customerId": "78",
+    "productId": null,
+    "eventType": "DASHBOARD_VISIT",
+    "description": "Visited customer dashboard",
+    "metadata": {},
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:01:51.421Z",
+    "createdBy": {
+      "id": 78,
+      "name": "sahithi",
+      "email": "samalasahithi112@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:01:51.421Z"
+  },
+  {
+    "id": "EVT-1009",
+    "eventId": "EVT-1009",
+    "leadId": "LEAD-1003",
+    "customerId": "78",
+    "productId": null,
+    "eventType": "LEAD_REGISTERED",
+    "description": "Customer account registered: sahithi (Personal Account)",
+    "metadata": {
+      "customerId": 78,
+      "email": "samalasahithi112@gmail.com",
+      "company": "Personal Account",
+      "industry": "Consumer Electronics"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:01:51.392Z",
+    "createdBy": {
+      "id": 78,
+      "name": "sahithi",
+      "email": "samalasahithi112@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:01:51.392Z"
+  },
+  {
+    "id": "EVT-1008",
+    "eventId": "EVT-1008",
+    "leadId": "LEAD-1002",
+    "customerId": "77",
+    "productId": null,
+    "eventType": "LOGOUT",
+    "description": "Customer signed out of account session",
+    "metadata": {
+      "customerId": 77
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:00:41.434Z",
+    "createdBy": {
+      "id": "77",
+      "name": "Customer",
+      "email": ""
+    },
+    "createdAt": "2026-10-01T07:00:41.434Z"
+  },
+  {
+    "id": "EVT-1007",
+    "eventId": "EVT-1007",
+    "leadId": "LEAD-1002",
+    "customerId": "77",
+    "productId": "prod-phone-4",
+    "eventType": "WISHLIST_ADD",
+    "description": "Added OnePlus 13 to wishlist",
+    "metadata": {
+      "productId": "prod-phone-4",
+      "productName": "OnePlus 13",
+      "category": "Smartphones",
+      "price": 69999
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:00:36.566Z",
+    "createdBy": {
+      "id": 77,
+      "name": "noor",
+      "email": "noorun@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:00:36.566Z"
+  },
+  {
+    "id": "EVT-1006",
+    "eventId": "EVT-1006",
+    "leadId": "LEAD-1002",
+    "customerId": "77",
+    "productId": "prod-phone-4",
+    "eventType": "CART_ADD",
+    "description": "Added 1x OnePlus 13 to cart",
+    "metadata": {
+      "productId": "prod-phone-4",
+      "productName": "OnePlus 13",
+      "quantity": 1,
+      "price": 69999
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:00:31.028Z",
+    "createdBy": {
+      "id": 77,
+      "name": "noor",
+      "email": "noorun@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:00:31.028Z"
+  },
+  {
+    "id": "EVT-1005",
+    "eventId": "EVT-1005",
+    "leadId": "LEAD-1002",
+    "customerId": "77",
+    "productId": null,
+    "eventType": "DASHBOARD_VISIT",
+    "description": "Visited customer dashboard",
+    "metadata": {},
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:00:25.408Z",
+    "createdBy": {
+      "id": 77,
+      "name": "noor",
+      "email": "noorun@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:00:25.408Z"
+  },
+  {
+    "id": "EVT-1004",
+    "eventId": "EVT-1004",
+    "leadId": "LEAD-1002",
+    "customerId": "77",
+    "productId": null,
+    "eventType": "LEAD_REGISTERED",
+    "description": "Customer account registered: noor (Personal Account)",
+    "metadata": {
+      "customerId": 77,
+      "email": "noorun@gmail.com",
+      "company": "Personal Account",
+      "industry": "Consumer Electronics"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T07:00:25.263Z",
+    "createdBy": {
+      "id": 77,
+      "name": "noor",
+      "email": "noorun@gmail.com"
+    },
+    "createdAt": "2026-10-01T07:00:25.263Z"
+  },
+  {
+    "id": "EVT-1003",
+    "eventId": "EVT-1003",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "LOGOUT",
+    "description": "Customer signed out of account session",
+    "metadata": {
+      "customerId": 3
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T06:18:32.142Z",
+    "createdBy": {
+      "id": "3",
+      "name": "Customer",
+      "email": ""
+    },
+    "createdAt": "2026-10-01T06:18:32.142Z"
+  },
+  {
+    "id": "EVT-1002",
+    "eventId": "EVT-1002",
+    "leadId": "LEAD-1001",
+    "customerId": "3",
+    "productId": null,
+    "eventType": "DASHBOARD_VISIT",
+    "description": "Visited customer dashboard",
+    "metadata": {},
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T06:18:29.283Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T06:18:29.283Z"
+  },
+  {
+    "id": "EVT-1001",
+    "eventId": "EVT-1001",
+    "leadId": null,
+    "customerId": "3",
+    "productId": null,
+    "eventType": "LOGIN",
+    "description": "Customer signed into account portal: Triveni Reddy",
+    "metadata": {
+      "customerId": 3,
+      "email": "reddytriveni594@gmail.com"
+    },
+    "preferredDate": null,
+    "preferredTime": null,
+    "timestamp": "2026-10-01T06:18:29.174Z",
+    "createdBy": {
+      "id": 3,
+      "name": "Triveni Reddy",
+      "email": "reddytriveni594@gmail.com"
+    },
+    "createdAt": "2026-10-01T06:18:29.175Z"
+  }
+]
