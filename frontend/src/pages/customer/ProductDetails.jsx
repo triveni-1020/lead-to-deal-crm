@@ -327,7 +327,7 @@ export default function ProductDetails() {
             <div className="overview-tab-content">
               <h3>Genuine Product & Warranty Assurance</h3>
               <p>
-                All devices procured through ApexTech are 100% genuine retail units with authorized manufacturer
+                All devices procured through Lead-to-Deal are 100% genuine retail units with authorized manufacturer
                 warranties, authentic serial numbers, and invoice documentation for immediate warranty coverage.
               </p>
               <div className="warranty-badges-row">

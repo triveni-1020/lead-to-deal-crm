@@ -277,10 +277,6 @@ export default function Login() {
           )}
         </div>
 
-        <div className="demo-hint">
-          <span>Dev testing demo accounts:</span><br />
-          <code>customer@demo.com</code> / <code>customer123</code> &bull; <code>sales@demo.com</code> / <code>sales123</code>
-        </div>
       </div>
     </div>
   );

@@ -84,7 +84,7 @@ export default function Profile() {
           <div className="profile-header-meta">
             <h1 className="profile-name">{name || 'Customer Account'}</h1>
             <p className="profile-role-sub">
-              ApexTech Verified Customer Account • {email}
+              Lead-to-Deal Verified Customer Account • {email}
             </p>
           </div>
 

@@ -65,8 +65,8 @@ export default function CustomerLayout({ children }) {
           <Link to="/customer" className="customer-brand">
             <div className="brand-icon">⚡</div>
             <div className="brand-text">
-              <span className="brand-title">ApexTech</span>
-              <span className="brand-subtitle">Electronics Store</span>
+              <span className="brand-title">Lead-to-Deal</span>
+              <span className="brand-subtitle">Store</span>
             </div>
           </Link>
 
@@ -215,7 +215,7 @@ export default function CustomerLayout({ children }) {
           <div className="footer-col">
             <div className="customer-brand footer-brand">
               <div className="brand-icon">⚡</div>
-              <span className="brand-title">ApexTech Store</span>
+              <span className="brand-title">Lead-to-Deal Store</span>
             </div>
             <p className="footer-desc">
               Your premier destination for flagship smartphones, workstations, audio systems, and smart tech essentials with seamless direct ordering.
@@ -258,7 +258,7 @@ export default function CustomerLayout({ children }) {
 
         <div className="footer-bottom">
           <div className="customer-container footer-bottom-inner">
-            <span>© 2026 ApexTech Store. All rights reserved.</span>
+            <span>© 2026 Lead-to-Deal Store. All rights reserved.</span>
             <span>Premium Consumer Electronics & Fast Dispatch.</span>
           </div>
         </div>

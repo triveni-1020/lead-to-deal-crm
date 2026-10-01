@@ -65,7 +65,7 @@ export default function Resources() {
 
       // Trigger simulated file download in browser
       const blob = new Blob([
-        `ApexTech Enterprise Document Library\n\nTitle: ${resource.title}\nCategory: ${resource.category}\nPublished Date: ${resource.publishedDate}\nDescription: ${resource.description}\n\nThis is a verified simulated enterprise technical document from the Autonomous Lead-to-Deal CRM Customer Portal.\n`
+        `Lead-to-Deal Enterprise Document Library\n\nTitle: ${resource.title}\nCategory: ${resource.category}\nPublished Date: ${resource.publishedDate}\nDescription: ${resource.description}\n\nThis is a verified simulated enterprise technical document from the Autonomous Lead-to-Deal CRM Customer Portal.\n`
       ], { type: 'text/plain' });
       const url = URL.createObjectURL(blob);
       const a = document.createElement('a');

@@ -110,7 +110,7 @@ export default function RequestDemo() {
               <span className="form-kicker">Interactive Product Walkthrough</span>
               <h1 className="form-title">Request a Guided Enterprise Demo</h1>
               <p className="form-subtitle">
-                Schedule a 30-minute 1-on-1 virtual hardware demonstration and architectural fleet review with an ApexTech Solutions Specialist.
+                Schedule a 30-minute 1-on-1 virtual hardware demonstration and architectural fleet review with an Lead-to-Deal Solutions Specialist.
               </p>
             </div>
 

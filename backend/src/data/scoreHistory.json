@@ -3859,5 +3859,27 @@
     "newScore": 53,
     "timestamp": "2026-10-01T16:22:51.130Z",
     "createdAt": "2026-10-01T16:22:51.130Z"
+  },
+  {
+    "id": "SH-1352",
+    "leadId": "LEAD-1001",
+    "eventId": "EVT-1044",
+    "eventType": "DASHBOARD_VISIT",
+    "points": 2,
+    "previousScore": 53,
+    "newScore": 55,
+    "timestamp": "2026-10-01T17:28:46.051Z",
+    "createdAt": "2026-10-01T17:28:46.051Z"
+  },
+  {
+    "id": "SH-1353",
+    "leadId": "LEAD-1001",
+    "eventId": "EVT-1045",
+    "eventType": "DASHBOARD_VISIT",
+    "points": 2,
+    "previousScore": 55,
+    "newScore": 57,
+    "timestamp": "2026-10-01T17:31:50.596Z",
+    "createdAt": "2026-10-01T17:31:50.596Z"
   }
 ]

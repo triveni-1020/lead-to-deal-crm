@@ -161,7 +161,7 @@ export default function Checkout() {
           <div className="confirmed-icon">🎉</div>
           <h1 className="confirmed-title">Order Confirmed!</h1>
           <p className="confirmed-subtitle">
-            Thank you for shopping with ApexTech Store. Your order has been placed successfully and is being prepared for dispatch.
+            Thank you for shopping with Lead-to-Deal Store. Your order has been placed successfully and is being prepared for dispatch.
           </p>
 
           <div className="confirmed-details-box">
